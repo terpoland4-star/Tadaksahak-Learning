@@ -4,12 +4,28 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Tadaksahak Learning</title>
-  <meta name="description" content="Langue et culture Idaksahak">
-  <link rel="stylesheet" href="css/main.css">
-  <link rel="stylesheet" href="css/themes.css">
+  <meta name="description" content="Plateforme dédiée à la langue et à la culture Idaksahak. Dictionnaire, grammaire, contes, quiz et ressources académiques.">
+  
+  <!-- PWA -->
+  <meta name="theme-color" content="#0a0c10">
+  <meta name="theme-color" media="(prefers-color-scheme: light)" content="#f8fafc">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/images/idaksahak_round.png">
-  <!-- Preload des polices si nécessaire -->
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/idaksahak_round.png">
+  
+  <!-- Open Graph -->
+  <meta property="og:title" content="Tadaksahak Learning">
+  <meta property="og:description" content="Langue, culture et mémoire vivante du peuple Idaksahak">
+  <meta property="og:image" content="assets/images/idaksahak_round.png">
+  <meta property="og:url" content="https://tadaksahak-learning.com">
+  <meta property="og:type" content="website">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/main.css">
+  
+  <!-- Preload des polices -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </head>
 <body class="dark">
   <!-- Lien d'évitement -->
@@ -18,13 +34,22 @@
   <!-- Overlay de chargement -->
   <div id="loadingOverlay" class="loading-overlay" hidden>
     <div class="spinner"></div>
-    <p data-i18n="loading">Chargement...</p>
+    <p data-i18n="loading">Chargement de l'application...</p>
+  </div>
+
+  <!-- Bannière de développement -->
+  <div id="devBanner" class="dev-banner" hidden>
+    <div class="dev-banner-content">
+      <span class="dev-badge">🚀 EN EXPANSION</span>
+      <span class="dev-message" data-i18n="dev_message">Plateforme opérationnelle — Nouvelles fonctionnalités à venir</span>
+      <button id="closeDevBanner" class="dev-banner-close" aria-label="Fermer">✕</button>
+    </div>
   </div>
 
   <!-- En-tête -->
   <header class="site-header">
     <div class="header-container">
-      <img src="assets/images/idaksahak_round.png" alt="Logo Tadaksahak Learning" class="logo-header" width="60" height="60">
+      <img src="assets/images/idaksahak_round.png" alt="Logo Tadaksahak Learning - Symbole de la communauté Idaksahak" class="logo-header" width="60" height="60">
       <div class="header-text">
         <h1>Tadaksahak Learning</h1>
         <p class="subtitle" data-i18n="subtitle">Langue, culture et mémoire vivante du peuple Idaksahak</p>
@@ -33,30 +58,36 @@
 
     <!-- Sélecteurs de thème -->
     <div class="theme-selector">
-      <button data-theme="dark" class="theme-btn" title="Thème sombre">🌙</button>
-      <button data-theme="light" class="theme-btn" title="Thème clair">📖</button>
-      <button data-theme="sepia" class="theme-btn" title="Thème sépia">📜</button>
-      <select id="fontFamilySelect" aria-label="Police">
-        <option value="sans">Sans-serif</option>
-        <option value="serif">Serif</option>
-        <option value="mono">Monospace</option>
+      <button data-theme="dark" class="theme-btn" title="Thème sombre" aria-label="Thème sombre">🌙</button>
+      <button data-theme="light" class="theme-btn" title="Thème clair" aria-label="Thème clair">📖</button>
+      <button data-theme="sepia" class="theme-btn" title="Thème sépia" aria-label="Thème sépia">📜</button>
+      
+      <select id="fontFamilySelect" aria-label="Changer la police">
+        <option value="sans">🔤 Sans-serif</option>
+        <option value="serif">📜 Serif</option>
+        <option value="mono">💻 Monospace</option>
       </select>
-      <select id="fontSizeSelect" aria-label="Taille du texte">
+      
+      <select id="fontSizeSelect" aria-label="Changer la taille du texte">
         <option value="80">80%</option>
         <option value="100" selected>100%</option>
         <option value="120">120%</option>
         <option value="140">140%</option>
       </select>
+      
       <label class="contrast-label">
         <input type="checkbox" id="highContrastCheck"> ♿ Contraste élevé
       </label>
+      
+      <!-- Bouton d'installation PWA (affiché dynamiquement) -->
+      <button id="installAppBtn" class="theme-btn" title="Installer l'application" aria-label="Installer l'application" hidden>📲</button>
     </div>
 
     <!-- Sélecteur de langue -->
     <div class="lang-selector">
-      <button data-lang="fr" class="lang-flag active">🇫🇷</button>
-      <button data-lang="ar" class="lang-flag">🇸🇦</button>
-      <button data-lang="en" class="lang-flag">🇬🇧</button>
+      <button data-lang="fr" class="lang-flag active" aria-label="Français">🇫🇷 Français</button>
+      <button data-lang="ar" class="lang-flag" aria-label="العربية">🇸🇦 العربية</button>
+      <button data-lang="en" class="lang-flag" aria-label="English">🇬🇧 English</button>
     </div>
 
     <!-- Navigation principale -->
@@ -113,34 +144,35 @@
         <div class="footer-column">
           <h4 data-i18n="footer_follow">Suivez-nous</h4>
           <div class="social-links">
-            <a href="#" class="social-link" data-social="facebook" aria-label="Facebook"></a>
-            <a href="#" class="social-link" data-social="twitter" aria-label="Twitter"></a>
-            <a href="#" class="social-link" data-social="youtube" aria-label="YouTube"></a>
+            <a href="https://facebook.com" class="social-link" data-social="facebook" aria-label="Facebook" target="_blank" rel="noopener noreferrer">📘</a>
+            <a href="https://twitter.com" class="social-link" data-social="twitter" aria-label="Twitter" target="_blank" rel="noopener noreferrer">🐦</a>
+            <a href="https://youtube.com" class="social-link" data-social="youtube" aria-label="YouTube" target="_blank" rel="noopener noreferrer">▶️</a>
           </div>
         </div>
       </div>
       <div id="historique" class="historique-section" aria-live="polite"></div>
       <div class="footer-copyright">
         <p>&copy; 2024-2026 Tadaksahak Learning - Hamadine Ag Moctar</p>
-        <p class="footer-version">Version 4.0.0</p>
+        <p class="footer-version">Version 5.0.0</p>
       </div>
     </div>
   </footer>
 
-  <!-- Toast -->
-  <div id="toast" class="toast" role="alert" hidden></div>
+  <!-- Toast notifications -->
+  <div id="toast" class="toast" role="alert" aria-live="assertive" hidden></div>
 
   <!-- Bannière consentement cookies -->
-  <div id="cookie-consent" style="display:none; position:fixed; bottom:0; left:0; right:0; background:var(--bg-card); color:var(--text); padding:12px 20px; text-align:center; z-index:1000; border-top:1px solid var(--border); backdrop-filter:blur(8px);">
+  <div id="cookie-consent" class="cookie-consent-banner" hidden>
     <span>🍪 Ce site utilise des cookies pour améliorer votre expérience. Vos données restent confidentielles.</span>
-    <button id="accept-cookies" style="margin-left:15px; padding:6px 16px; background:var(--gradient-primary); border:none; border-radius:20px; color:white; cursor:pointer; font-weight:600;">J'accepte</button>
-    <button id="reject-cookies" style="margin-left:8px; padding:6px 16px; background:transparent; border:1px solid var(--border); border-radius:20px; color:var(--text-muted); cursor:pointer;">Refuser</button>
+    <button id="accept-cookies" class="cookie-btn accept">J'accepte</button>
+    <button id="reject-cookies" class="cookie-btn reject">Refuser</button>
   </div>
 
   <!-- Templates pour les composants réutilisables -->
   <template id="word-card-template">
     <div class="word-card">
       <h3 class="mot"></h3>
+      <div class="word-category"></div>
       <p class="definition"></p>
       <div class="word-actions">
         <button class="share-btn">📤 <span data-i18n="share">Partager</span></button>
@@ -152,13 +184,13 @@
   <template id="modal-template">
     <div class="modal">
       <div class="modal-content">
-        <span class="modal-close">&times;</span>
+        <span class="modal-close" aria-label="Fermer">&times;</span>
         <div class="modal-body"></div>
       </div>
     </div>
   </template>
 
-  <!-- Script principal (module) -->
+  <!-- Script principal (module ES) -->
   <script type="module" src="js/app.js"></script>
 </body>
 </html>
