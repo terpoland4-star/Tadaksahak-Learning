@@ -1,0 +1,30 @@
+{
+  "name": "Tadaksahak Learning",
+  "short_name": "Tadaksahak",
+  "description": "Plateforme dédiée à la langue et à la culture Idaksahak",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0c10",
+  "theme_color": "#0099ff",
+  "orientation": "any",
+  "lang": "fr",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "assets/images/idaksahak_round.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/idaksahak_round.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education", "reference", "books"],
+  "screenshots": [],
+  "related_applications": [],
+  "prefer_related_applications": false
+}
