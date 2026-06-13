@@ -2,7 +2,7 @@
 <html lang="fr" dir="ltr">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Tadaksahak Learning</title>
   <meta name="description" content="Langue et culture Idaksahak">
   <link rel="stylesheet" href="css/main.css">
@@ -12,8 +12,51 @@
 </head>
 <body class="dark">
   <a href="#main-content" class="skip-link">Aller au contenu principal</a>
+  <div id="loadingOverlay" class="loading-overlay" hidden>
+    <div class="spinner"></div>
+    <p data-i18n="loading">Chargement...</p>
+  </div>
 
-  <!-- header, navigation, sections, footer (conserver la structure actuelle mais en supprimant les scripts inline) -->
+  <header class="site-header">
+    <!-- En-tête avec logo, sélecteurs de thème/langue -->
+    <div class="header-container">
+      <img src="assets/images/idaksahak_round.png" alt="Logo" class="logo-header" width="60" height="60">
+      <div class="header-text">
+        <h1>Tadaksahak Learning</h1>
+        <p class="subtitle" data-i18n="subtitle">Langue, culture et mémoire vivante du peuple Idaksahak</p>
+      </div>
+    </div>
+    <div class="theme-selector">
+      <button data-theme="dark" class="theme-btn">🌙</button>
+      <button data-theme="light" class="theme-btn">📖</button>
+      <button data-theme="sepia" class="theme-btn">📜</button>
+      <select id="fontFamilySelect"><!-- ... --></select>
+      <select id="fontSizeSelect"><!-- ... --></select>
+      <label><input type="checkbox" id="highContrastCheck"> ♿ Contraste élevé</label>
+    </div>
+    <div class="lang-selector">
+      <button data-lang="fr" class="lang-flag">🇫🇷</button>
+      <button data-lang="ar" class="lang-flag">🇸🇦</button>
+      <button data-lang="en" class="lang-flag">🇬🇧</button>
+    </div>
+    <nav class="main-nav">
+      <ul>
+        <li><a href="/accueil" data-link="/accueil" data-i18n="nav_home">🏠 Accueil</a></li>
+        <li><a href="/dictionnaire" data-link="/dictionnaire" data-i18n="nav_dictionary">📖 Dictionnaire</a></li>
+        <!-- ... autres liens identiques avec data-link -->
+      </ul>
+    </nav>
+  </header>
+
+  <main id="main-content" tabindex="-1"></main>
+
+  <footer class="site-footer">
+    <!-- ... -->
+  </footer>
+
+  <div id="toast" class="toast" role="alert" hidden></div>
+  <!-- Bannière cookies -->
+  <div id="cookie-consent" style="display:none; /* ... */">...</div>
 
   <script type="module" src="js/app.js"></script>
 </body>
