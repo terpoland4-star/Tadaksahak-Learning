@@ -1,0 +1,4394 @@
+[
+  {
+    "mot": "A-báaleq",
+    "cat": "n.",
+    "fr": "Poussière",
+    "ar": "غبار",
+    "en": "Dust",
+    "source": "swadesh"
+  },
+  {
+    "mot": "A-bíji",
+    "cat": "n.",
+    "fr": "Chacal",
+    "ar": "ابن آوى",
+    "en": "Jackal",
+    "source": "swadesh"
+  },
+  {
+    "mot": "A-handag",
+    "cat": "n.",
+    "fr": "Lieu, endroit",
+    "ar": "مكان",
+    "en": "Place, location",
+    "source": "nature"
+  },
+  {
+    "mot": "A-jeraw",
+    "cat": "n.",
+    "fr": "Rivière (Niger)",
+    "ar": "نهر (النيجر)",
+    "en": "River (Niger River)",
+    "source": "nature"
+  },
+  {
+    "mot": "A-jím",
+    "cat": "num.",
+    "fr": "Mille",
+    "ar": "ألف",
+    "en": "Thousand",
+    "source": "numerals"
+  },
+  {
+    "mot": "A-lágod",
+    "cat": "n.",
+    "fr": "Petit chameau",
+    "ar": "صغير جمل",
+    "en": "Baby camel",
+    "source": "animaux"
+  },
+  {
+    "mot": "A-mánana",
+    "cat": "n.",
+    "fr": "Poisson",
+    "ar": "سمك",
+    "en": "Fish",
+    "source": "swadesh"
+  },
+  {
+    "mot": "A-múudǝr",
+    "cat": "n.",
+    "fr": "Animal, être vivant",
+    "ar": "حيوان، كائن حي",
+    "en": "Animal; living being",
+    "source": "swadesh"
+  },
+  {
+    "mot": "A-ngu",
+    "cat": "n.",
+    "fr": "Place, position",
+    "ar": "مكان",
+    "en": "Place, position",
+    "source": "corps"
+  },
+  {
+    "mot": "A-rgán",
+    "cat": "n.",
+    "fr": "Chameau adulte (mâle)",
+    "ar": "جمل بالغ (ذكر)",
+    "en": "Adult male camel",
+    "source": "animaux"
+  },
+  {
+    "mot": "A-rúuru",
+    "cat": "n.",
+    "fr": "Dos",
+    "ar": "ظهر",
+    "en": "Back (body part)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "A-wátay",
+    "cat": "n.",
+    "fr": "Année",
+    "ar": "سنة",
+    "en": "Year",
+    "source": "swadesh"
+  },
+  {
+    "mot": "A-yyár",
+    "cat": "n.",
+    "fr": "Mois, lune",
+    "ar": "شهر، قمر",
+    "en": "Month; moon",
+    "source": "swadesh"
+  },
+  {
+    "mot": "A-ɣázar",
+    "cat": "n.",
+    "fr": "Lac, étang temporaire",
+    "ar": "بحيرة، بركة مؤقتة",
+    "en": "Lake; temporary pond",
+    "source": "swadesh"
+  },
+  {
+    "mot": "A-ffóoda",
+    "cat": "n.",
+    "fr": "Un (et l'autre)",
+    "ar": "واحد (والآخر)",
+    "en": "One (and the other)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "A-ẓúbara",
+    "cat": "n.",
+    "fr": "Phacochère",
+    "ar": "خنزير ثؤلولي",
+    "en": "Warthog",
+    "source": "animaux"
+  },
+  {
+    "mot": "A-áa-har",
+    "cat": "n.",
+    "fr": "Lion",
+    "ar": "أسد",
+    "en": "Lion",
+    "source": "swadesh"
+  },
+  {
+    "mot": "A-ʒáaʒib",
+    "cat": "n.",
+    "fr": "Fantôme / hyène",
+    "ar": "شبح / ضبع",
+    "en": "Phantom / hyena",
+    "source": "animaux"
+  },
+  {
+    "mot": "Aarú",
+    "cat": "n.",
+    "fr": "Mari, homme, mâle",
+    "ar": "زوج، رجل، ذكر",
+    "en": "Husband; man; male",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Adi",
+    "cat": "dem.",
+    "fr": "Ce (déjà mentionné)",
+    "ar": "ذلك (سبق ذكره)",
+    "en": "That (already mentioned)",
+    "source": "demonstratives"
+  },
+  {
+    "mot": "Agar",
+    "cat": "adj.",
+    "fr": "Mauvais",
+    "ar": "سيء",
+    "en": "Bad",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Akkóz",
+    "cat": "num.",
+    "fr": "Quatre",
+    "ar": "أربعة",
+    "en": "Four",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Aryén",
+    "cat": "npl.",
+    "fr": "Eau",
+    "ar": "ماء",
+    "en": "Water",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Aɣay",
+    "cat": "pron.",
+    "fr": "Je/moi",
+    "ar": "أنا",
+    "en": "I/me",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Baabá",
+    "cat": "n.",
+    "fr": "Ancêtre paternel, père, frère du père",
+    "ar": "جد أبوي، أب، أخ الأب",
+    "en": "Ancestor (paternal); father; father's brother",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Baba béeri",
+    "cat": "n.",
+    "fr": "Grand-père",
+    "ar": "جد",
+    "en": "Grandfather",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Baba fumbu",
+    "cat": "n.",
+    "fr": "Beau-père",
+    "ar": "زوج الأم",
+    "en": "Stepfather",
+    "source": "famille"
+  },
+  {
+    "mot": "Babó",
+    "cat": "vi.",
+    "fr": "Être nombreux, abondant",
+    "ar": "يكون كثيراً، وافراً",
+    "en": "Numerous/abundant, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ban-an",
+    "cat": "adj.",
+    "fr": "Mou, tendre",
+    "ar": "لين",
+    "en": "Soft, tender",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Barjí",
+    "cat": "n.",
+    "fr": "Écorce, fibre (végétale)",
+    "ar": "لحاء، ليف (نباتي)",
+    "en": "Bark; fiber (plant)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Be",
+    "cat": "postp.",
+    "fr": "Sur, au-dessus de, à propos de",
+    "ar": "على، فوق، حول",
+    "en": "On, above, about",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Beer-i",
+    "cat": "adj.",
+    "fr": "Grand",
+    "ar": "كبير",
+    "en": "Big",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Bibi",
+    "cat": "adj.",
+    "fr": "Noir",
+    "ar": "أسود",
+    "en": "Black",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Biidí",
+    "cat": "n.",
+    "fr": "Os",
+    "ar": "عظم",
+    "en": "Bone (general)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Booʃí",
+    "cat": "n.",
+    "fr": "Cendres",
+    "ar": "رماد",
+    "en": "Ashes",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Borá",
+    "cat": "n.",
+    "fr": "Personne",
+    "ar": "شخص",
+    "en": "Person",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Báarar",
+    "cat": "n.",
+    "fr": "Enfant",
+    "ar": "طفل",
+    "en": "Child",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Báy",
+    "cat": "vt.",
+    "fr": "Pouvoir (faire), savoir",
+    "ar": "قدر على، يعرف",
+    "en": "Able, to be; know, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Báaɣa",
+    "cat": "vt.",
+    "fr": "Aimer, vouloir",
+    "ar": "يحب، يريد",
+    "en": "To love, want",
+    "source": "verbes_action"
+  },
+  {
+    "mot": "Bán",
+    "cat": "vi.",
+    "fr": "Être mou, tendre",
+    "ar": "يكون ليناً",
+    "en": "To be soft, tender",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Bér",
+    "cat": "vi.",
+    "fr": "Être grand, important, adulte",
+    "ar": "يكون كبيراً، مهماً، بالغاً",
+    "en": "Big/important/grown up, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Bér",
+    "cat": "vt.",
+    "fr": "Agrandir, rendre grand",
+    "ar": "يكبر، يجعل كبيراً",
+    "en": "Make big/enlarge, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Bér",
+    "cat": "n.",
+    "fr": "Aîné(e), frère/soeur plus âgé(e)",
+    "ar": "أكبر (أخ/أخت)",
+    "en": "Older sibling",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Bíibi",
+    "cat": "adj.",
+    "fr": "Noir",
+    "ar": "أسود",
+    "en": "Black",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Bíibi",
+    "cat": "n.",
+    "fr": "Noir (couleur)",
+    "ar": "أسود (لون)",
+    "en": "Black (color)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Bíibi",
+    "cat": "vi.",
+    "fr": "Être noir",
+    "ar": "يكون أسود",
+    "en": "Black, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Bíibi",
+    "cat": "vt.",
+    "fr": "Noircir",
+    "ar": "يسود",
+    "en": "Blacken, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Bún",
+    "cat": "vi.",
+    "fr": "Être mort, mourir, s'éteindre (feu), s'épuiser (batterie)",
+    "ar": "يكون ميتاً، يموت، ينطفئ (نار)، ينفد (بطارية)",
+    "en": "Dead, to be; die; go out (fire); be exhausted (battery)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Bún",
+    "cat": "n.",
+    "fr": "Mort, fin (de mois)",
+    "ar": "موت، نهاية (شهر)",
+    "en": "Death; end (of month)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Cawal-an",
+    "cat": "adj.",
+    "fr": "Clair",
+    "ar": "فاتح",
+    "en": "Clear, light",
+    "source": "couleurs"
+  },
+  {
+    "mot": "Ceená",
+    "cat": "n.",
+    "fr": "Petite taille, petitesse",
+    "ar": "صغر",
+    "en": "Small size",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ceená",
+    "cat": "vi.",
+    "fr": "Être petit, jeune",
+    "ar": "يكون صغيراً، شاباً",
+    "en": "Small/young, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ceená",
+    "cat": "vt.",
+    "fr": "Rétrécir, rendre petit",
+    "ar": "يُصغر",
+    "en": "Make small, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Cen-an",
+    "cat": "adj.",
+    "fr": "Petit, jeune",
+    "ar": "صغير، شاب",
+    "en": "Small, young",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Ci",
+    "cat": "pron.",
+    "fr": "Qui ? / Quoi ?",
+    "ar": "من؟ / ماذا؟",
+    "en": "Who?/what?",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ci ná hó be",
+    "cat": "phrase",
+    "fr": "Pourquoi ?",
+    "ar": "لماذا؟",
+    "en": "Why?",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Ci ná a",
+    "cat": "phrase",
+    "fr": "Qu'est-ce que c'est ?",
+    "ar": "ما هذا؟",
+    "en": "What is it?",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "Ci ná aɣo",
+    "cat": "phrase",
+    "fr": "Qui (humain) ?",
+    "ar": "من (بشر)؟",
+    "en": "Who (human)?",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "Ci ná hó",
+    "cat": "phrase",
+    "fr": "Quoi (non-humain) ?",
+    "ar": "ماذا (غير بشر)؟",
+    "en": "What (non-human)?",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "Ciday",
+    "cat": "adj.",
+    "fr": "Rouge",
+    "ar": "أحمر",
+    "en": "Red",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Cidáy",
+    "cat": "vi.",
+    "fr": "Être rouge",
+    "ar": "يكون أحمر",
+    "en": "To be red",
+    "source": "couleurs"
+  },
+  {
+    "mot": "Ciidí",
+    "cat": "n.",
+    "fr": "Sel",
+    "ar": "ملح",
+    "en": "Salt",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ciidaw",
+    "cat": "n.",
+    "fr": "Oiseau",
+    "ar": "طائر",
+    "en": "Bird (general)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Cijí",
+    "cat": "n.",
+    "fr": "Nuit",
+    "ar": "ليل",
+    "en": "Night",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Cindí",
+    "cat": "vi.",
+    "fr": "Rester (un reste), se reposer",
+    "ar": "يبقى (بقية)، يستريح",
+    "en": "Leave a rest, to; remain, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Cindí",
+    "cat": "n.",
+    "fr": "Reste, partie, quelques-uns",
+    "ar": "بقية، جزء، بعض",
+    "en": "Rest; part; some",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Cinji",
+    "cat": "n.",
+    "fr": "Pluie",
+    "ar": "مطر",
+    "en": "Rain",
+    "source": "nature"
+  },
+  {
+    "mot": "Cí",
+    "cat": "vt.",
+    "fr": "Dire",
+    "ar": "يقول",
+    "en": "Say, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Cáy",
+    "cat": "n.",
+    "fr": "Jambe, pied, roue (voiture)",
+    "ar": "ساق، قدم، عجلة (سيارة)",
+    "en": "Leg; foot; (car) wheel",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Cén",
+    "cat": "vt.",
+    "fr": "Construire",
+    "ar": "يبني",
+    "en": "To construct",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Céw",
+    "cat": "vt.",
+    "fr": "Appeler",
+    "ar": "ينادي",
+    "en": "To call",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Dabar-an",
+    "cat": "adj.",
+    "fr": "Gris",
+    "ar": "رمادي",
+    "en": "Grey",
+    "source": "couleurs"
+  },
+  {
+    "mot": "Dagag-an",
+    "cat": "adj.",
+    "fr": "Lent",
+    "ar": "بطيء",
+    "en": "Slow",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Dalat-an",
+    "cat": "adj.",
+    "fr": "Bleu/vert",
+    "ar": "أزرق/أخضر",
+    "en": "Blue/green",
+    "source": "couleurs"
+  },
+  {
+    "mot": "Daw",
+    "cat": "postp.",
+    "fr": "Chez (quelqu’un), à côté de",
+    "ar": "عند (شخص)، بجانب",
+    "en": "At (somebody’s place); next to",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Didá",
+    "cat": "n.",
+    "fr": "Marche, départ",
+    "ar": "مشي، مغادرة",
+    "en": "Walk; departure",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Didá",
+    "cat": "vi.",
+    "fr": "Marcher, partir à pied",
+    "ar": "يمشي، ينطلق مشياً",
+    "en": "Walk; set off on foot, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Dini",
+    "cat": "vt.",
+    "fr": "Prendre, attraper",
+    "ar": "يأخذ، يقبض",
+    "en": "To take, catch",
+    "source": "verbes_action"
+  },
+  {
+    "mot": "Dis",
+    "cat": "vt.",
+    "fr": "Laisser tranquille",
+    "ar": "يترك وشأنه",
+    "en": "To leave alone",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Dudú",
+    "cat": "vi.",
+    "fr": "Couler (eau)",
+    "ar": "يتدفق (ماء)",
+    "en": "Flow (water), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Dudú",
+    "cat": "vt.",
+    "fr": "Verser (liquide)",
+    "ar": "يصُب (سائلاً)",
+    "en": "Pour (liquid), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Dumbú",
+    "cat": "vt.",
+    "fr": "Couper, tuer (animal par saignée)",
+    "ar": "يقطع، يذبح (حيواناً)",
+    "en": "Cut/kill (animal by cutting jugular), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Dáb",
+    "cat": "vt.",
+    "fr": "Habiller",
+    "ar": "يلبس",
+    "en": "To dress",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Dá",
+    "cat": "vt.",
+    "fr": "Faire, mettre",
+    "ar": "يفعل، يضع",
+    "en": "To do, put",
+    "source": "verbes_action"
+  },
+  {
+    "mot": "Dáy-an",
+    "cat": "vt.",
+    "fr": "Vendre",
+    "ar": "يبيع",
+    "en": "To sell",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Dáy-kat",
+    "cat": "vt.",
+    "fr": "Acheter",
+    "ar": "يشتري",
+    "en": "To buy",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Dígdíg",
+    "cat": "vt.",
+    "fr": "Casser (jambe)",
+    "ar": "يكسر (رجلاً)",
+    "en": "To break (leg)",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Dút",
+    "cat": "vt.",
+    "fr": "Piler",
+    "ar": "يدق",
+    "en": "To pound",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Ee-dag",
+    "cat": "n.",
+    "fr": "Lieu, endroit",
+    "ar": "مكان",
+    "en": "Place, location",
+    "source": "nature"
+  },
+  {
+    "mot": "Farká",
+    "cat": "n.",
+    "fr": "Âne",
+    "ar": "حمار",
+    "en": "Donkey",
+    "source": "animaux"
+  },
+  {
+    "mot": "Feejí",
+    "cat": "n.",
+    "fr": "Mouton",
+    "ar": "خروف",
+    "en": "Sheep",
+    "source": "animaux"
+  },
+  {
+    "mot": "Fenef",
+    "cat": "vi.",
+    "fr": "Respirer",
+    "ar": "يتنفس",
+    "en": "Breathe, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Fiden",
+    "cat": "vt.",
+    "fr": "Compter",
+    "ar": "يعد",
+    "en": "Count, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Fik",
+    "cat": "vt.",
+    "fr": "Semer, enterrer",
+    "ar": "يزرع، يدفن",
+    "en": "To sow, bury",
+    "source": "songhay_derivational_prefix"
+  },
+  {
+    "mot": "Fufú",
+    "cat": "n.",
+    "fr": "Froid (temps)",
+    "ar": "برد (طقس)",
+    "en": "Cold (weather)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Fumbú",
+    "cat": "vi.",
+    "fr": "Être pourri",
+    "ar": "يكون فاسداً",
+    "en": "To be rotten",
+    "source": "verbs"
+  },
+  {
+    "mot": "Fás",
+    "cat": "vt.",
+    "fr": "Creuser",
+    "ar": "يحفر",
+    "en": "Dig, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Fás",
+    "cat": "n.",
+    "fr": "Creusement",
+    "ar": "حفر",
+    "en": "Digging",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Fér",
+    "cat": "vt.",
+    "fr": "Détacher, ouvrir",
+    "ar": "يفك، يفتح",
+    "en": "To untie, open",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Fóoda",
+    "cat": "num.",
+    "fr": "Un",
+    "ar": "واحد",
+    "en": "One",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Fúr",
+    "cat": "vi.",
+    "fr": "Souffler (vent), se lever (soleil)",
+    "ar": "يهب (ريح)، يشرق (شمس)",
+    "en": "Blow (wind), to; rise (sun), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Fúr",
+    "cat": "vt.",
+    "fr": "Jeter",
+    "ar": "يرمي",
+    "en": "To throw",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Ganda",
+    "cat": "n.",
+    "fr": "Terre, pays",
+    "ar": "أرض، بلد",
+    "en": "Earth, land, country",
+    "source": "nature"
+  },
+  {
+    "mot": "Gangá",
+    "cat": "vt.",
+    "fr": "Empêcher",
+    "ar": "يمنع",
+    "en": "To hinder",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Garúura",
+    "cat": "n.",
+    "fr": "Solution verte (pour cuir)",
+    "ar": "محلول أخضر (للدباغة)",
+    "en": "Green solution (for leather)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Gazúl",
+    "cat": "vi.",
+    "fr": "Être court",
+    "ar": "يكون قصيراً",
+    "en": "Short, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Gazul",
+    "cat": "adj.",
+    "fr": "Court",
+    "ar": "قصير",
+    "en": "Short",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Geení",
+    "cat": "n.",
+    "fr": "Pou (de tête)",
+    "ar": "قمل (رأس)",
+    "en": "Head louse",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Gimár",
+    "cat": "vi.",
+    "fr": "Chasser (gibier)",
+    "ar": "يصطاد",
+    "en": "Hunt (game), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Gin-giman",
+    "cat": "adj.",
+    "fr": "Bon, agréable, utile",
+    "ar": "جيد، لطيف، مفيد",
+    "en": "Good; nice; useful",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Gon",
+    "cat": "vt.",
+    "fr": "Avaler",
+    "ar": "يبتلع",
+    "en": "To swallow",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Goorá",
+    "cat": "vi.",
+    "fr": "S'asseoir, rester, demeurer",
+    "ar": "يجلس، يبقى، يسكن",
+    "en": "Sit; stay; dwell, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Goorá",
+    "cat": "n.",
+    "fr": "Position assise",
+    "ar": "جلوس",
+    "en": "Sitting",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Guná",
+    "cat": "vt.",
+    "fr": "Voir",
+    "ar": "يرى",
+    "en": "See, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Guná",
+    "cat": "n.",
+    "fr": "Vue, vision",
+    "ar": "بصر، رؤية",
+    "en": "Sight",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Gurgú",
+    "cat": "vt.",
+    "fr": "Tirer en guidant",
+    "ar": "يسحب ويقود",
+    "en": "To lead pulling",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Guŋgú",
+    "cat": "n.",
+    "fr": "Ventre",
+    "ar": "بطن",
+    "en": "Belly",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Gánda",
+    "cat": "n.",
+    "fr": "Pays, terre, sol, région",
+    "ar": "بلد، أرض، تراب، منطقة",
+    "en": "Country; earth; ground; region",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Gánda ŋ karfú",
+    "cat": "n.",
+    "fr": "Serpent (espèce)",
+    "ar": "ثعبان (نوع)",
+    "en": "Snake (a species)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Gár",
+    "cat": "vt.",
+    "fr": "Garder, surveiller",
+    "ar": "يحرس",
+    "en": "To guard",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Gónʃi",
+    "cat": "n.",
+    "fr": "Serpent",
+    "ar": "ثعبان",
+    "en": "Snake (general)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Górgor",
+    "cat": "vi.",
+    "fr": "Rire, se moquer",
+    "ar": "يضحك، يسخر",
+    "en": "Laugh; laugh about, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Górgor",
+    "cat": "n.",
+    "fr": "Rire",
+    "ar": "ضحك",
+    "en": "Laughter",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Haab-én",
+    "cat": "npl.",
+    "fr": "Fourrure, cheveux, poils",
+    "ar": "فرو، شعر (رأس/جسم)",
+    "en": "Fur; hair",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Habá",
+    "cat": "vt.",
+    "fr": "Ramasser (nourriture)",
+    "ar": "يجمع (طعام)",
+    "en": "To gather (food)",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Hambará",
+    "cat": "n.",
+    "fr": "Peur",
+    "ar": "خوف",
+    "en": "Fear",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Hambará",
+    "cat": "vt.",
+    "fr": "Craindre",
+    "ar": "يخاف",
+    "en": "Fear, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Handí",
+    "cat": "n.",
+    "fr": "Veau",
+    "ar": "عجل",
+    "en": "Calf",
+    "source": "animaux"
+  },
+  {
+    "mot": "Hangá",
+    "cat": "vt.",
+    "fr": "Accompagner",
+    "ar": "يرافق",
+    "en": "To accompany",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Hawú",
+    "cat": "n.",
+    "fr": "Vache, bovin",
+    "ar": "بقرة",
+    "en": "Cow, cattle",
+    "source": "animaux"
+  },
+  {
+    "mot": "Haŋgá",
+    "cat": "n.",
+    "fr": "Oreille",
+    "ar": "أذن",
+    "en": "Ear",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Háamu",
+    "cat": "n.",
+    "fr": "Viande, animal d'élevage pour la viande",
+    "ar": "لحم، حيوان مخصص للحم",
+    "en": "Meat; animal raised for meat",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Háaṣi",
+    "cat": "vt.",
+    "fr": "Regarder",
+    "ar": "ينظر إلى",
+    "en": "To look at",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Hár",
+    "cat": "vt.",
+    "fr": "Raconter",
+    "ar": "يروي",
+    "en": "To tell",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Háw",
+    "cat": "vt.",
+    "fr": "Attacher (animal, selle, sandales)",
+    "ar": "يربط (حيواناً، سرجاً، صندلاً)",
+    "en": "Tether/tie (animal/saddle/sandals), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Háw",
+    "cat": "vi.",
+    "fr": "Être attaché",
+    "ar": "يكون مربوطاً",
+    "en": "Be tied/tethered, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Háy",
+    "cat": "vt.",
+    "fr": "Enfanter",
+    "ar": "تلد",
+    "en": "To give birth",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Hé",
+    "cat": "n.",
+    "fr": "Chose, quelque chose, quelqu'un",
+    "ar": "شيء، شخص",
+    "en": "Thing; something; somebody",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Héw",
+    "cat": "vi.",
+    "fr": "Pleurer",
+    "ar": "يبكي",
+    "en": "To cry",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "Héw",
+    "cat": "n.",
+    "fr": "Vent, courant d'air",
+    "ar": "ريح، تيار هوائي",
+    "en": "Wind; air current",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Hinciní",
+    "cat": "n.",
+    "fr": "Chèvre",
+    "ar": "ماعز",
+    "en": "Goat",
+    "source": "animaux"
+  },
+  {
+    "mot": "Hinká",
+    "cat": "num.",
+    "fr": "Deux",
+    "ar": "اثنان",
+    "en": "Two",
+    "source": "numerals"
+  },
+  {
+    "mot": "Hiná",
+    "cat": "vt.",
+    "fr": "Cuire",
+    "ar": "يطبخ",
+    "en": "To cook",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Hór",
+    "cat": "vi.",
+    "fr": "S'amuser, jouer",
+    "ar": "يستمتع، يلعب",
+    "en": "Amuse oneself, to; play, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Hóoɣay",
+    "cat": "vi.",
+    "fr": "Passer la journée",
+    "ar": "يقضي اليوم",
+    "en": "To spend the day",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "Húbut",
+    "cat": "vt.",
+    "fr": "Tirer (objet lourd)",
+    "ar": "يسحب (شيء ثقيل)",
+    "en": "Pull something heavy, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Húuru",
+    "cat": "vt.",
+    "fr": "Entrer",
+    "ar": "يدخل",
+    "en": "To enter",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "Húur",
+    "cat": "vi.",
+    "fr": "Entrer",
+    "ar": "يدخل",
+    "en": "To enter",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "Hánʃi",
+    "cat": "n.",
+    "fr": "Chien",
+    "ar": "كلب",
+    "en": "Dog (general)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Hín",
+    "cat": "vt.",
+    "fr": "Cuire",
+    "ar": "يطبخ",
+    "en": "To cook",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Hínjin",
+    "cat": "vi.",
+    "fr": "Être beaucoup, intensifier",
+    "ar": "يكون كثيراً",
+    "en": "To be very much",
+    "source": "verbs"
+  },
+  {
+    "mot": "Hímay",
+    "cat": "vt.",
+    "fr": "Laver, développer (photos)",
+    "ar": "يغسل، يحمّض (صور)",
+    "en": "Wash; develop (photos), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Hímay",
+    "cat": "vi.",
+    "fr": "Être lavé, se laver",
+    "ar": "يُغسل، يغتسل",
+    "en": "Be washed; take a bath, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Hímay",
+    "cat": "n.",
+    "fr": "Lavage, action de laver",
+    "ar": "غسل",
+    "en": "Washing",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Hóoɣay",
+    "cat": "vi.",
+    "fr": "Passer la journée",
+    "ar": "يقضي اليوم",
+    "en": "To spend the day",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "I-dululin",
+    "cat": "n.",
+    "fr": "Belle-famille",
+    "ar": "أصهار",
+    "en": "In-laws",
+    "source": "famille"
+  },
+  {
+    "mot": "I-futu-tan",
+    "cat": "npl.",
+    "fr": "Paumes des mains",
+    "ar": "راحتا اليدين",
+    "en": "Palms of hands",
+    "source": "corps"
+  },
+  {
+    "mot": "I-ʒínn-an",
+    "cat": "npl.",
+    "fr": "Ciel",
+    "ar": "سماء",
+    "en": "Sky",
+    "source": "swadesh"
+  },
+  {
+    "mot": "I-dmar-an",
+    "cat": "npl.",
+    "fr": "Poitrine",
+    "ar": "صدر",
+    "en": "Chest",
+    "source": "corps"
+  },
+  {
+    "mot": "I-jimm-an hinká",
+    "cat": "num.",
+    "fr": "Deux mille",
+    "ar": "ألفان",
+    "en": "Two thousand",
+    "source": "numerals"
+  },
+  {
+    "mot": "Iigǝs",
+    "cat": "n.",
+    "fr": "Langue",
+    "ar": "لسان",
+    "en": "Tongue",
+    "source": "corps"
+  },
+  {
+    "mot": "Iffá",
+    "cat": "num.",
+    "fr": "Sept",
+    "ar": "سبعة",
+    "en": "Seven",
+    "source": "numerals"
+  },
+  {
+    "mot": "Ifay-temerwin",
+    "cat": "num.",
+    "fr": "Soixante-dix",
+    "ar": "سبعون",
+    "en": "Seventy",
+    "source": "numerals"
+  },
+  {
+    "mot": "Igdá ~ iddá ~ íd",
+    "cat": "conj.",
+    "fr": "Parce que",
+    "ar": "لأن",
+    "en": "Because",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Intáynawt",
+    "cat": "n.",
+    "fr": "Chacal (qui tue les chevreaux)",
+    "ar": "ابن آوى (الذي يقتل الجديان)",
+    "en": "Jackal (that kills kids)",
+    "source": "conte"
+  },
+  {
+    "mot": "Inzin",
+    "cat": "prep.",
+    "fr": "Comme",
+    "ar": "مثل",
+    "en": "Like",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Ittám",
+    "cat": "num.",
+    "fr": "Huit",
+    "ar": "ثمانية",
+    "en": "Eight",
+    "source": "numerals"
+  },
+  {
+    "mot": "Ittam-temerwin",
+    "cat": "num.",
+    "fr": "Quatre-vingts",
+    "ar": "ثمانون",
+    "en": "Eighty",
+    "source": "numerals"
+  },
+  {
+    "mot": "Iíilǝs",
+    "cat": "n.",
+    "fr": "Langue",
+    "ar": "لسان",
+    "en": "Tongue",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Jinjí",
+    "cat": "n.",
+    "fr": "Cou, gorge",
+    "ar": "رقبة، حنجرة",
+    "en": "Neck; throat",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ka",
+    "cat": "postp.",
+    "fr": "Parmi, à, dans, de, depuis",
+    "ar": "بين، إلى، في، من",
+    "en": "Among, to, in, from",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Kaarád",
+    "cat": "num.",
+    "fr": "Trois",
+    "ar": "ثلاثة",
+    "en": "Three",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kaarad-a-temerwin",
+    "cat": "num.",
+    "fr": "Trente",
+    "ar": "ثلاثون",
+    "en": "Thirty",
+    "source": "numerals"
+  },
+  {
+    "mot": "Kadak-an",
+    "cat": "adj.",
+    "fr": "Marron (couleur)",
+    "ar": "بني",
+    "en": "Brown (color)",
+    "source": "couleurs"
+  },
+  {
+    "mot": "Kal maamala",
+    "cat": "n.",
+    "fr": "Marchands (pluriel)",
+    "ar": "تجار",
+    "en": "Merchants (plural)",
+    "source": "famille"
+  },
+  {
+    "mot": "Kamba",
+    "cat": "postp.",
+    "fr": "Vers",
+    "ar": "نحو",
+    "en": "Towards",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Kambá",
+    "cat": "n.",
+    "fr": "Bras / main",
+    "ar": "ذراع / يد",
+    "en": "Arm / hand",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Karfú",
+    "cat": "n.",
+    "fr": "Corde",
+    "ar": "حبل",
+    "en": "Rope",
+    "source": "verbs"
+  },
+  {
+    "mot": "Karrós",
+    "cat": "vi.",
+    "fr": "Être étroit",
+    "ar": "يكون ضيقاً",
+    "en": "Narrow, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Keení",
+    "cat": "vi.",
+    "fr": "Être allongé, dormir, passer la nuit",
+    "ar": "يكون مستلقياً، ينام، يقضي الليل",
+    "en": "Laid down, to be; sleep, to; spend the night",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Keení",
+    "cat": "n.",
+    "fr": "Sommeil",
+    "ar": "نوم",
+    "en": "Sleep (n)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Keení ŋ guná",
+    "cat": "n.",
+    "fr": "Rêve",
+    "ar": "حلم",
+    "en": "Dream",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Keedí",
+    "cat": "vt.",
+    "fr": "Monter, chevaucher",
+    "ar": "يركب",
+    "en": "To climb, ride",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Korrá",
+    "cat": "n.",
+    "fr": "Chaleur",
+    "ar": "حرارة",
+    "en": "Heat",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Korrá",
+    "cat": "vi.",
+    "fr": "Être chaud",
+    "ar": "يكون ساخناً",
+    "en": "Hot, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Korrá",
+    "cat": "vt.",
+    "fr": "Chauffer, rendre chaud",
+    "ar": "يسخن",
+    "en": "Hot, to make",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kud-én",
+    "cat": "npl.",
+    "fr": "Sang",
+    "ar": "دم",
+    "en": "Blood",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kuk-an",
+    "cat": "adj.",
+    "fr": "Long",
+    "ar": "طويل",
+    "en": "Long",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Kukú",
+    "cat": "vi.",
+    "fr": "Être profond, long, grand (taille)",
+    "ar": "يكون عميقاً، طويلاً، كبيراً (قامة)",
+    "en": "Deep/long/tall, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kukú",
+    "cat": "vt.",
+    "fr": "Approfondir, allonger",
+    "ar": "يعمق، يطيل",
+    "en": "Deepen/lengthen, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kukú",
+    "cat": "n.",
+    "fr": "Longueur",
+    "ar": "طول",
+    "en": "Length",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kungú",
+    "cat": "vi.",
+    "fr": "Manger à satiété",
+    "ar": "يأكل حتى الشبع",
+    "en": "To eat enough",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "Kurú-kuru",
+    "cat": "vt.",
+    "fr": "Brûler",
+    "ar": "يحرق",
+    "en": "Burn, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kurú-kuru",
+    "cat": "vi.",
+    "fr": "Être brûlé",
+    "ar": "يحترق",
+    "en": "Burned, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kuurú",
+    "cat": "n.",
+    "fr": "Cuir, peau, hide",
+    "ar": "جلد",
+    "en": "Leather; skin; hide",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kwondí",
+    "cat": "n.",
+    "fr": "Fourmi",
+    "ar": "نملة",
+    "en": "Ant",
+    "source": "animaux"
+  },
+  {
+    "mot": "Káamil",
+    "cat": "quantifier",
+    "fr": "Tout",
+    "ar": "كل",
+    "en": "All",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Káŋ",
+    "cat": "vi.",
+    "fr": "Tomber",
+    "ar": "يسقط",
+    "en": "To fall",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "Káŋkam",
+    "cat": "vt.",
+    "fr": "Téter",
+    "ar": "يرضع",
+    "en": "To suckle",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "Kár",
+    "cat": "vt.",
+    "fr": "Sculpter (cuillère), frapper, jouer (instrument/foot), twiner, avertir",
+    "ar": "ينحت (ملعقة)، يضرب، يعزف (آلة/كرة)، يفتل، يحذر",
+    "en": "Carve (wooden spoon); hit; play (instrument/football); twine (rope); warn, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Káw",
+    "cat": "vt.",
+    "fr": "Sortir",
+    "ar": "يخرج",
+    "en": "To take out",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Káy",
+    "cat": "vi.",
+    "fr": "Être droit, debout, s'arrêter",
+    "ar": "يكون مستقيماً، واقفاً، يتوقف",
+    "en": "Upright, to be; stop, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Káy",
+    "cat": "n.",
+    "fr": "Posture droite, arrêt",
+    "ar": "استقامة، توقف",
+    "en": "Being upright; stopping",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kóoray",
+    "cat": "adj.",
+    "fr": "Blanc",
+    "ar": "أبيض",
+    "en": "White",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Kóoray",
+    "cat": "n.",
+    "fr": "Blanc (couleur)",
+    "ar": "أبيض (لون)",
+    "en": "White (color)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kóoray",
+    "cat": "vi.",
+    "fr": "Être blanc",
+    "ar": "يكون أبيض",
+    "en": "White, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kós",
+    "cat": "vt.",
+    "fr": "Couper",
+    "ar": "يقطع",
+    "en": "Cut, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kós",
+    "cat": "vi.",
+    "fr": "Être coupé",
+    "ar": "ينقطع",
+    "en": "Cut, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kós",
+    "cat": "n.",
+    "fr": "Coupe, coupure",
+    "ar": "قطع",
+    "en": "Cutting",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kóy",
+    "cat": "vt.",
+    "fr": "Partir pour, aller à",
+    "ar": "يغادر إلى، يذهب إلى",
+    "en": "Leave for; go to, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kóy-kat",
+    "cat": "vi.",
+    "fr": "Venir",
+    "ar": "يأتي",
+    "en": "Come, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Kúkkuʒ-it",
+    "cat": "vi.",
+    "fr": "Se gratter",
+    "ar": "يحك نفسه",
+    "en": "Scratch oneself, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Lés",
+    "cat": "n.",
+    "fr": "Saleté (excrément), impureté religieuse",
+    "ar": "قذر (براز)، نجاسة دينية",
+    "en": "Dirt (excrement); religious impurity",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Lés",
+    "cat": "vi.",
+    "fr": "Être sale, impur (religieusement)",
+    "ar": "يكون قذراً، نجساً (دينياً)",
+    "en": "Dirty/impure (religiously), to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Lés",
+    "cat": "vt.",
+    "fr": "Rendre sale, salir",
+    "ar": "يوسخ",
+    "en": "Dirty, to make",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Maaná",
+    "cat": "adv.",
+    "fr": "Où ? (pour un nom, proche)",
+    "ar": "أين؟ (لاسم، قريب)",
+    "en": "Where? (for a noun, close vicinity)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Maarad",
+    "cat": "n.",
+    "fr": "Maintenant",
+    "ar": "الآن",
+    "en": "Now",
+    "source": "adverbs"
+  },
+  {
+    "mot": "Maará",
+    "cat": "num.",
+    "fr": "Dix",
+    "ar": "عشرة",
+    "en": "Ten",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Maará (a)nda a-ffó",
+    "cat": "num.",
+    "fr": "Onze",
+    "ar": "أحد عشر",
+    "en": "Eleven",
+    "source": "numerals"
+  },
+  {
+    "mot": "Maará (a)nda hinká",
+    "cat": "num.",
+    "fr": "Douze",
+    "ar": "اثنا عشر",
+    "en": "Twelve",
+    "source": "numerals"
+  },
+  {
+    "mot": "Mammaní",
+    "cat": "n.",
+    "fr": "Odeur, parfum",
+    "ar": "رائحة، عطر",
+    "en": "Odor; perfume",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Man émmǝk aɣó ǝnda",
+    "cat": "phrase",
+    "fr": "Comment ?",
+    "ar": "كيف؟",
+    "en": "How?",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Man ícet",
+    "cat": "phrase",
+    "fr": "Combien ?",
+    "ar": "كم؟",
+    "en": "How many/much?",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "Man n(e)",
+    "cat": "phrase",
+    "fr": "Où ? (éloigné)",
+    "ar": "أين؟ (بعيد)",
+    "en": "Where? (far)",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "May kay",
+    "cat": "idiom",
+    "fr": "Être grand (taille)",
+    "ar": "يكون طويل القامة",
+    "en": "Tall, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Miya kukú",
+    "cat": "n.",
+    "fr": "Moustique",
+    "ar": "بعوضة",
+    "en": "Mosquito",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Mo ka",
+    "cat": "phrase",
+    "fr": "Avant quelqu’un",
+    "ar": "قبل شخص",
+    "en": "Before somebody",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Mó",
+    "cat": "vt.",
+    "fr": "Entendre (nouvelles), avoir des nouvelles de",
+    "ar": "يسمع (أخبار)",
+    "en": "Hear (news), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Mó",
+    "cat": "vi.",
+    "fr": "Entendre (bruit)",
+    "ar": "يسمع (ضجيج)",
+    "en": "Hear (noise), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Mó",
+    "cat": "n.",
+    "fr": "Œil, visage",
+    "ar": "عين، وجه",
+    "en": "Eye; face",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Mó céena",
+    "cat": "n.",
+    "fr": "Chacal",
+    "ar": "ابن آوى",
+    "en": "Jackal",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Mós",
+    "cat": "vt.",
+    "fr": "Entendre",
+    "ar": "يسمع",
+    "en": "To hear",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Mán",
+    "cat": "vt.",
+    "fr": "Approcher",
+    "ar": "يقترب",
+    "en": "Approach, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Mán",
+    "cat": "vi.",
+    "fr": "Être proche, approcher",
+    "ar": "يكون قريباً، يقترب",
+    "en": "Near, to be; approach, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Mân",
+    "cat": "n.",
+    "fr": "Nom, réputation",
+    "ar": "اسم، سمعة",
+    "en": "Name; reputation",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Míya",
+    "cat": "n.",
+    "fr": "Mesure, bouche, bec, ouverture, côté, fin",
+    "ar": "قياس، فم، منقار، فتحة، جانب، نهاية",
+    "en": "Measure; mouth; peak; opening; side; end",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Mór",
+    "cat": "vt.",
+    "fr": "Éloigner, être distant",
+    "ar": "يبعد، يكون بعيداً",
+    "en": "Distance from, to; be far away",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Mún",
+    "cat": "vt.",
+    "fr": "Jeter dehors",
+    "ar": "يطرد",
+    "en": "To throw out",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Naaná",
+    "cat": "n.",
+    "fr": "Mère, sœur de la mère",
+    "ar": "أم، أخت الأم",
+    "en": "Mother; mother's sister",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Nam",
+    "cat": "vt.",
+    "fr": "Mordre, piquer (insecte)",
+    "ar": "يعض، يلسع (حشرة)",
+    "en": "Bite/sting, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Nana béeri",
+    "cat": "n.",
+    "fr": "Grand-mère",
+    "ar": "جدة",
+    "en": "Grandmother",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Nana ceena",
+    "cat": "n.",
+    "fr": "Tante maternelle",
+    "ar": "خالة",
+    "en": "Maternal aunt",
+    "source": "famille"
+  },
+  {
+    "mot": "Nana fumbu",
+    "cat": "n.",
+    "fr": "Belle-mère",
+    "ar": "زوجة الأب",
+    "en": "Stepmother",
+    "source": "famille"
+  },
+  {
+    "mot": "Nas-u",
+    "cat": "adj.",
+    "fr": "Gras, bien nourri",
+    "ar": "سمين",
+    "en": "Fat, well-fed",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Nedea",
+    "cat": "adv.",
+    "fr": "Ici",
+    "ar": "هنا",
+    "en": "Here",
+    "source": "adverbs"
+  },
+  {
+    "mot": "Néeda",
+    "cat": "adv.",
+    "fr": "Ici",
+    "ar": "هنا",
+    "en": "Here",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Nín",
+    "cat": "vt.",
+    "fr": "Boire",
+    "ar": "يشرب",
+    "en": "Drink, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Nín",
+    "cat": "pron.",
+    "fr": "Tu (singulier)",
+    "ar": "أنت (مفرد)",
+    "en": "You (sg)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Nuun-én",
+    "cat": "npl.",
+    "fr": "Nuage, fumée, vapeur",
+    "ar": "سحاب، دخان، بخار",
+    "en": "Cloud; smoke; vapor",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ná",
+    "cat": "vt.",
+    "fr": "Donner",
+    "ar": "يعطي",
+    "en": "Give, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ná",
+    "cat": "n.",
+    "fr": "Don, action de donner",
+    "ar": "عطاء",
+    "en": "Giving",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Nát",
+    "cat": "vt.",
+    "fr": "Donner",
+    "ar": "يعطي",
+    "en": "To give",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "O",
+    "cat": "dem.",
+    "fr": "Ce (référence large)",
+    "ar": "هذا/ذلك (مرجع واسع)",
+    "en": "This/that (broad reference)",
+    "source": "demonstratives"
+  },
+  {
+    "mot": "Qaarán",
+    "cat": "vt.",
+    "fr": "Lire, étudier (Coran)",
+    "ar": "يقرأ، يدرس (قرآناً)",
+    "en": "To read, study (Quran)",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Qoq-i",
+    "cat": "adj.",
+    "fr": "Sec",
+    "ar": "جاف",
+    "en": "Dry",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Qóq",
+    "cat": "vi.",
+    "fr": "Être sec",
+    "ar": "يكون جافاً",
+    "en": "Dry, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Senda",
+    "cat": "adv.",
+    "fr": "Là-bas",
+    "ar": "هناك",
+    "en": "There",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Surgóy",
+    "cat": "n.",
+    "fr": "Épouse, femme",
+    "ar": "زوجة، امرأة",
+    "en": "Wife; woman",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Sélal",
+    "cat": "vi.",
+    "fr": "Être lisse",
+    "ar": "يكون أملس",
+    "en": "Smooth, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Sénda",
+    "cat": "dem.",
+    "fr": "Celui-là, là-bas",
+    "ar": "ذلك، هناك",
+    "en": "That (one); there",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Sót",
+    "cat": "n.",
+    "fr": "Saut",
+    "ar": "قفزة",
+    "en": "Jump (n)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Sót",
+    "cat": "vt.",
+    "fr": "Sauter par-dessus",
+    "ar": "يقفز فوق",
+    "en": "Jump over, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "T-á-méedi",
+    "cat": "num.",
+    "fr": "Cent",
+    "ar": "مائة",
+    "en": "Hundred",
+    "source": "swadesh"
+  },
+  {
+    "mot": "T-á-méedi hinká",
+    "cat": "num.",
+    "fr": "Deux cents",
+    "ar": "مائتان",
+    "en": "Two hundred",
+    "source": "numerals"
+  },
+  {
+    "mot": "T-aa-dás-t",
+    "cat": "n.",
+    "fr": "Moustique",
+    "ar": "بعوضة",
+    "en": "Mosquito",
+    "source": "swadesh"
+  },
+  {
+    "mot": "T-í-nʒar",
+    "cat": "npl.",
+    "fr": "Nez, narines",
+    "ar": "أنف، منخران",
+    "en": "Nose; nostrils",
+    "source": "swadesh"
+  },
+  {
+    "mot": "T-a-lánkaw-t",
+    "cat": "n.",
+    "fr": "Queue",
+    "ar": "ذيل",
+    "en": "Tail",
+    "source": "swadesh"
+  },
+  {
+    "mot": "T-a-záazul-t",
+    "cat": "n.",
+    "fr": "Sable",
+    "ar": "رمل",
+    "en": "Sand",
+    "source": "swadesh"
+  },
+  {
+    "mot": "T-áa-fult",
+    "cat": "n.",
+    "fr": "Œuf",
+    "ar": "بيضة",
+    "en": "Egg",
+    "source": "swadesh"
+  },
+  {
+    "mot": "T-áa-har",
+    "cat": "n.",
+    "fr": "Lion",
+    "ar": "أسد",
+    "en": "Lion",
+    "source": "swadesh"
+  },
+  {
+    "mot": "T-áa-lankaw-t",
+    "cat": "n.",
+    "fr": "Queue",
+    "ar": "ذيل",
+    "en": "Tail",
+    "source": "swadesh"
+  },
+  {
+    "mot": "T-áa-licet-t",
+    "cat": "n.",
+    "fr": "Petit doigt",
+    "ar": "خنصر",
+    "en": "Little finger",
+    "source": "corps"
+  },
+  {
+    "mot": "T-áa-ʃan",
+    "cat": "n.",
+    "fr": "Dent",
+    "ar": "سن",
+    "en": "Tooth",
+    "source": "corps"
+  },
+  {
+    "mot": "Taatab",
+    "cat": "vt.",
+    "fr": "Coudre",
+    "ar": "يخيط",
+    "en": "Sew, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Taatab",
+    "cat": "n.",
+    "fr": "Couture",
+    "ar": "خياطة",
+    "en": "Sewing",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tabá",
+    "cat": "vt.",
+    "fr": "Goûter",
+    "ar": "يتذوق",
+    "en": "To taste",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Taaʃá",
+    "cat": "n.",
+    "fr": "Foie",
+    "ar": "كبد",
+    "en": "Liver",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tay",
+    "cat": "vi.",
+    "fr": "Être mouillé, être vert (herbe)",
+    "ar": "يكون مبللاً، يكون أخضر (عشب)",
+    "en": "Wet/green, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tay",
+    "cat": "vt.",
+    "fr": "Mouiller",
+    "ar": "يبلل",
+    "en": "Make wet, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tay",
+    "cat": "n.",
+    "fr": "Humidité, mouillure",
+    "ar": "رطوبة",
+    "en": "Wetness",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tayáy",
+    "cat": "adj.",
+    "fr": "Jaune",
+    "ar": "أصفر",
+    "en": "Yellow",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Taasá",
+    "cat": "num.",
+    "fr": "Neuf",
+    "ar": "تسعة",
+    "en": "Nine",
+    "source": "numerals"
+  },
+  {
+    "mot": "Taasay-temerwin",
+    "cat": "num.",
+    "fr": "Quatre-vingt-dix",
+    "ar": "تسعون",
+    "en": "Ninety",
+    "source": "numerals"
+  },
+  {
+    "mot": "Tarra",
+    "cat": "n.",
+    "fr": "Brousse",
+    "ar": "غابة",
+    "en": "Bush",
+    "source": "nature"
+  },
+  {
+    "mot": "Tarra nn ízzay",
+    "cat": "n.",
+    "fr": "Lion (litt. enfant de la brousse)",
+    "ar": "أسد (حرفياً: ولد الغابة)",
+    "en": "Lion (lit. child of the bush)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tim",
+    "cat": "vt.",
+    "fr": "Piquer",
+    "ar": "يلسع",
+    "en": "To prick",
+    "source": "songhay_derivational_prefix"
+  },
+  {
+    "mot": "Tinʒit",
+    "cat": "vi.",
+    "fr": "Éternuer",
+    "ar": "يعطس",
+    "en": "Sneeze, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tugúdu",
+    "cat": "n.",
+    "fr": "Bois de chauffage, arbre",
+    "ar": "حطب، شجرة",
+    "en": "Firewood; tree",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tunú",
+    "cat": "vi.",
+    "fr": "Se lever",
+    "ar": "يقوم",
+    "en": "To get up",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "Tus",
+    "cat": "vt.",
+    "fr": "Effacer, essuyer",
+    "ar": "يمحو، يمسح",
+    "en": "Wipe out/erase, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tus",
+    "cat": "vi.",
+    "fr": "Être effacé, disparaître",
+    "ar": "يُمحى، يختفي",
+    "en": "Be wiped out, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tus",
+    "cat": "n.",
+    "fr": "Effacement",
+    "ar": "محو",
+    "en": "Wiping out",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Táafinda",
+    "cat": "num.",
+    "fr": "Vingt",
+    "ar": "عشرون",
+    "en": "Twenty",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Táw",
+    "cat": "vt.",
+    "fr": "Atteindre",
+    "ar": "يصل إلى",
+    "en": "To reach",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Táy",
+    "cat": "vt.",
+    "fr": "Mouiller",
+    "ar": "يبلل",
+    "en": "To moisten",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Tát",
+    "cat": "vt.",
+    "fr": "Semer",
+    "ar": "يزرع",
+    "en": "To sow",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Tén",
+    "cat": "vi.",
+    "fr": "Arriver",
+    "ar": "يصل",
+    "en": "To arrive",
+    "source": "verbes_action"
+  },
+  {
+    "mot": "Tíŋ",
+    "cat": "vi.",
+    "fr": "Être lourd",
+    "ar": "يكون ثقيلاً",
+    "en": "Heavy, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Tón",
+    "cat": "vt.",
+    "fr": "Remplir",
+    "ar": "يملأ",
+    "en": "To fill",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Tóndi",
+    "cat": "n.",
+    "fr": "Batterie, pierre, roche",
+    "ar": "بطارية، حجر، صخر",
+    "en": "Battery; stone; rock",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Túk",
+    "cat": "vt.",
+    "fr": "Cacher",
+    "ar": "يخفي",
+    "en": "To hide",
+    "source": "songhay_derivational_prefix"
+  },
+  {
+    "mot": "U-gmuʒ",
+    "cat": "n.",
+    "fr": "Pouce",
+    "ar": "إبهام",
+    "en": "Thumb",
+    "source": "corps"
+  },
+  {
+    "mot": "Wala",
+    "cat": "prep.",
+    "fr": "Sans, ou",
+    "ar": "بدون، أو",
+    "en": "Without, or",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Wani / wan-en",
+    "cat": "postp.",
+    "fr": "De (caractéristique, matière)",
+    "ar": "لـ (صفة، مادة)",
+    "en": "Of (characteristic, material)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Wayní",
+    "cat": "n.",
+    "fr": "Soleil",
+    "ar": "شمس",
+    "en": "Sun",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Wi",
+    "cat": "vt.",
+    "fr": "Tuer, éteindre (feu/lumière), éteindre (radio/TV)",
+    "ar": "يقتل، يطفئ (نار/ضوء)، يغلق (راديو/تلفاز)",
+    "en": "Kill; extinguish; turn off, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Wi",
+    "cat": "n.",
+    "fr": "Meurtre",
+    "ar": "قتل",
+    "en": "Killing",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Wiji",
+    "cat": "particule",
+    "fr": "N'est pas (identification)",
+    "ar": "ليس (تحديد هوية)",
+    "en": "Is not (identification)",
+    "source": "negation"
+  },
+  {
+    "mot": "Wis",
+    "cat": "vt.",
+    "fr": "Tuer, frapper",
+    "ar": "يقتل، يضرب",
+    "en": "To kill, hit",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Wél",
+    "cat": "n.",
+    "fr": "Cœur",
+    "ar": "قلب",
+    "en": "Heart",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Wǝrtilla",
+    "cat": "particule",
+    "fr": "Il n'y a pas (emphatique)",
+    "ar": "ليس هناك (تأكيد)",
+    "en": "There is not (emphatic)",
+    "source": "negation"
+  },
+  {
+    "mot": "Yaray-an",
+    "cat": "adj.",
+    "fr": "Jaune",
+    "ar": "أصفر",
+    "en": "Yellow",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Yaráy",
+    "cat": "vi.",
+    "fr": "Être jaune",
+    "ar": "يكون أصفر",
+    "en": "Yellow, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yaynáy",
+    "cat": "vi.",
+    "fr": "Être nouveau",
+    "ar": "يكون جديداً",
+    "en": "New, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yed",
+    "cat": "vi.",
+    "fr": "Revenir",
+    "ar": "يعود",
+    "en": "To return",
+    "source": "songhay_derivational_prefix"
+  },
+  {
+    "mot": "Yeer",
+    "cat": "vi.",
+    "fr": "Vomir",
+    "ar": "يتقيأ",
+    "en": "To vomit",
+    "source": "songhay_derivational_prefix"
+  },
+  {
+    "mot": "Yiddár",
+    "cat": "vi.",
+    "fr": "Être en vie, vivre",
+    "ar": "يكون حياً، يعيش",
+    "en": "Alive, to be; live, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yidyar",
+    "cat": "vi.",
+    "fr": "Être collé",
+    "ar": "يكون ملتصقاً",
+    "en": "To be glued",
+    "source": "reciprocal_verbs"
+  },
+  {
+    "mot": "Yiktab",
+    "cat": "vt.",
+    "fr": "Écrire",
+    "ar": "يكتب",
+    "en": "To write",
+    "source": "reciprocal_verbs"
+  },
+  {
+    "mot": "Yilbák",
+    "cat": "vi.",
+    "fr": "Être maigre, mince",
+    "ar": "يكون نحيفاً، رفيعاً",
+    "en": "Lean, to be; thin, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yiltág",
+    "cat": "vi.",
+    "fr": "Être lourd, maigre",
+    "ar": "يكون ثقيلاً، نحيفاً",
+    "en": "Heavy/lean, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yilwá",
+    "cat": "vi.",
+    "fr": "Être large",
+    "ar": "يكون واسعاً",
+    "en": "Wide, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yimad-an",
+    "cat": "adj.",
+    "fr": "Complet",
+    "ar": "كامل",
+    "en": "Complete",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Yinkad",
+    "cat": "vt.",
+    "fr": "Circoncire",
+    "ar": "يختن",
+    "en": "To circumcise",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Yintaz",
+    "cat": "vt.",
+    "fr": "Tirer rapidement",
+    "ar": "يسحب بسرعة",
+    "en": "To pull quickly",
+    "source": "reciprocal_verbs"
+  },
+  {
+    "mot": "Yirkab",
+    "cat": "vt.",
+    "fr": "Tirer",
+    "ar": "يسحب",
+    "en": "To pull",
+    "source": "reciprocal_verbs"
+  },
+  {
+    "mot": "Yirzam",
+    "cat": "vi.",
+    "fr": "Pendre autour",
+    "ar": "يعلق حول",
+    "en": "To hang around",
+    "source": "reciprocal_verbs"
+  },
+  {
+    "mot": "Yish-an",
+    "cat": "adj.",
+    "fr": "Fort",
+    "ar": "قوي",
+    "en": "Strong",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Yiska",
+    "cat": "vt.",
+    "fr": "Peigner",
+    "ar": "يمشط",
+    "en": "To comb",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Yiwál",
+    "cat": "vi.",
+    "fr": "Être tranchant (couteau)",
+    "ar": "يكون حاداً (سكين)",
+    "en": "Sharp (knife), to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yixwal",
+    "cat": "vi.",
+    "fr": "Être préoccupé",
+    "ar": "يكون مشغول البال",
+    "en": "To be preoccupied",
+    "source": "reciprocal_verbs"
+  },
+  {
+    "mot": "Yiyfel",
+    "cat": "vi.",
+    "fr": "Être verrouillé",
+    "ar": "يكون مقفلاً",
+    "en": "To be locked",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Yiyid",
+    "cat": "vi.",
+    "fr": "Être détruit",
+    "ar": "يكون مدمراً",
+    "en": "To be destroyed",
+    "source": "verbs"
+  },
+  {
+    "mot": "Yiyil",
+    "cat": "vi.",
+    "fr": "Être ouvert",
+    "ar": "يكون مفتوحاً",
+    "en": "To be open",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Yiyil",
+    "cat": "vt.",
+    "fr": "Ouvrir",
+    "ar": "يفتح",
+    "en": "To open",
+    "source": "labile_verbs"
+  },
+  {
+    "mot": "Yizza",
+    "cat": "vi.",
+    "fr": "Être devant",
+    "ar": "يكون أماماً",
+    "en": "To be ahead",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Yizzar-an",
+    "cat": "adj.",
+    "fr": "Premier, devant",
+    "ar": "أول، أمام",
+    "en": "First, ahead",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Yordá",
+    "cat": "vi.",
+    "fr": "Penser (que)",
+    "ar": "يعتقد (أن)",
+    "en": "Think (that), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yéeri",
+    "cat": "vi.",
+    "fr": "Vomir",
+    "ar": "يتقيأ",
+    "en": "Vomit, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yéeri",
+    "cat": "n.",
+    "fr": "Vomissement",
+    "ar": "تقيؤ",
+    "en": "Vomiting",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yéw",
+    "cat": "impératif",
+    "fr": "Viens !",
+    "ar": "تعال!",
+    "en": "Come!",
+    "source": "imperatives"
+  },
+  {
+    "mot": "Yíddǝr",
+    "cat": "vt.",
+    "fr": "Tenir",
+    "ar": "يمسك",
+    "en": "Hold, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yíniʃtaga",
+    "cat": "vi.",
+    "fr": "S'allonger sur le côté",
+    "ar": "يستلقي على جنبه",
+    "en": "Lie on side, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yírkǝb",
+    "cat": "vt.",
+    "fr": "Tirer",
+    "ar": "يسحب",
+    "en": "Pull, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Yíʃǝf",
+    "cat": "vi.",
+    "fr": "Plonger, nager",
+    "ar": "يغوص، يسبح",
+    "en": "Dive, to; swim, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Z-ákmaʒ",
+    "cat": "vt.",
+    "fr": "Gratter",
+    "ar": "يحك",
+    "en": "Scratch, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Zadig-an",
+    "cat": "adj.",
+    "fr": "Propre",
+    "ar": "نظيف",
+    "en": "Clean",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Zaróoda",
+    "cat": "adv.",
+    "fr": "Aujourd'hui",
+    "ar": "اليوم",
+    "en": "Today",
+    "source": "adverbs"
+  },
+  {
+    "mot": "Zaɣrí",
+    "cat": "n.",
+    "fr": "Jour",
+    "ar": "يوم",
+    "en": "Day",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Zen-i",
+    "cat": "adj.",
+    "fr": "Vieux",
+    "ar": "عجوز",
+    "en": "Old",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Zibit",
+    "cat": "vi.",
+    "fr": "Être sale",
+    "ar": "يكون قذراً",
+    "en": "To be dirty",
+    "source": "songhay_derivational_prefix"
+  },
+  {
+    "mot": "Zumbú",
+    "cat": "vi.",
+    "fr": "Descendre",
+    "ar": "ينزل",
+    "en": "To go down",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "Zurú",
+    "cat": "vi.",
+    "fr": "Courir",
+    "ar": "يركض",
+    "en": "To run",
+    "source": "one_argument_verbs"
+  },
+  {
+    "mot": "Zálgat",
+    "cat": "n.",
+    "fr": "Gauche (côté)",
+    "ar": "يسار",
+    "en": "Left (side)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Zén",
+    "cat": "vi.",
+    "fr": "Être vieux",
+    "ar": "يكون عجوزاً",
+    "en": "Old, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Zén",
+    "cat": "vt.",
+    "fr": "Vieillir, rendre vieux",
+    "ar": "يشيخ",
+    "en": "Old, to make",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Zíibit",
+    "cat": "vi.",
+    "fr": "Être sale",
+    "ar": "يكون قذراً",
+    "en": "Dirty, to be",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Zóy",
+    "cat": "vi.",
+    "fr": "Se battre",
+    "ar": "يتشاجر",
+    "en": "To fight",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Záw",
+    "cat": "vt.",
+    "fr": "Prendre, emmener",
+    "ar": "يأخذ",
+    "en": "To take, bring",
+    "source": "verbes_action"
+  },
+  {
+    "mot": "Záy",
+    "cat": "vt.",
+    "fr": "Voler",
+    "ar": "يسرق",
+    "en": "To steal",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Áa-har",
+    "cat": "n.",
+    "fr": "Lion",
+    "ar": "أسد",
+    "en": "Lion",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Áa-la",
+    "cat": "n.",
+    "fr": "Feuille, thé (feuilles)",
+    "ar": "ورقة، شاي (أوراق)",
+    "en": "Leaf; tea (leaves)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Áadan-an",
+    "cat": "npl.",
+    "fr": "Tripes, intestins",
+    "ar": "أمعاء",
+    "en": "Guts",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Áari",
+    "cat": "pron.",
+    "fr": "Nous",
+    "ar": "نحن",
+    "en": "We",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Áfraw",
+    "cat": "n.",
+    "fr": "Plume, aile",
+    "ar": "ريشة، جناح",
+    "en": "Feather; wing",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ándi",
+    "cat": "pron.",
+    "fr": "Vous (pluriel)",
+    "ar": "أنتم",
+    "en": "You (pl)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Áŋga",
+    "cat": "pron.",
+    "fr": "Il/elle/lui",
+    "ar": "هو/هي",
+    "en": "He/she/it/him/her",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Áyda",
+    "cat": "dem.",
+    "fr": "Ceci, cela (proche du destinataire)",
+    "ar": "هذا، ذلك (قريب من المخاطَب)",
+    "en": "This (close to addressee)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Áa-la",
+    "cat": "n.",
+    "fr": "Feuille, thé",
+    "ar": "ورقة، شاي",
+    "en": "Leaf, tea",
+    "source": "nature"
+  },
+  {
+    "mot": "Áaḍǝm",
+    "cat": "n.",
+    "fr": "Graine",
+    "ar": "بذرة",
+    "en": "Seed",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ée-caw",
+    "cat": "n.",
+    "fr": "Racine",
+    "ar": "جذر",
+    "en": "Root",
+    "source": "nature"
+  },
+  {
+    "mot": "Ée-ʃan",
+    "cat": "n.",
+    "fr": "Dent",
+    "ar": "سن",
+    "en": "Tooth",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Íilǝs",
+    "cat": "n.",
+    "fr": "Langue",
+    "ar": "لسان",
+    "en": "Tongue",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Íŋgi",
+    "cat": "pron.",
+    "fr": "Ils, elles, eux",
+    "ar": "هم، هن",
+    "en": "They; them",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ízzay",
+    "cat": "n.",
+    "fr": "Fruit, fils, enfant, jeune animal",
+    "ar": "فاكهة، ابن، طفل، صغير حيوان",
+    "en": "Fruit; son; child; young animal",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Íizzay",
+    "cat": "n.",
+    "fr": "Fils, enfant",
+    "ar": "ابن، طفل",
+    "en": "Son, child",
+    "source": "famille"
+  },
+  {
+    "mot": "Óoda",
+    "cat": "dem.",
+    "fr": "Ceci, cela",
+    "ar": "هذا، ذلك",
+    "en": "This/that",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ǝnda",
+    "cat": "prep.",
+    "fr": "Et (entre noms), avec, si/quand",
+    "ar": "و (بين الأسماء)، مع، إذا/عندما",
+    "en": "And (between noun phrases); with; if/when",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Ǝndár",
+    "cat": "conj.",
+    "fr": "Si (hypothétique)",
+    "ar": "لو (افتراضي)",
+    "en": "If (hypothetical)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Ǝs-kábahar",
+    "cat": "conj.",
+    "fr": "Si, quand",
+    "ar": "إذا، عندما",
+    "en": "If/when",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Ŋá",
+    "cat": "vt.",
+    "fr": "Mordre (animal), utiliser frauduleusement",
+    "ar": "يعض (حيوان)، يختلس",
+    "en": "Bite (animal), to; use fraudulently, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "Ŋá",
+    "cat": "vt.",
+    "fr": "Manger",
+    "ar": "يأكل",
+    "en": "To eat",
+    "source": "two_argument_verbs"
+  },
+  {
+    "mot": "Ʒeemi",
+    "cat": "n.",
+    "fr": "Forgeron",
+    "ar": "حداد",
+    "en": "Blacksmith",
+    "source": "verbs"
+  },
+  {
+    "mot": "Ʒén",
+    "cat": "vi.",
+    "fr": "Être vieux",
+    "ar": "يكون عجوزاً",
+    "en": "To be old",
+    "source": "adjectives"
+  },
+  {
+    "mot": "Ʒíi",
+    "cat": "vt.",
+    "fr": "Donner un coup de pied",
+    "ar": "يركل",
+    "en": "To kick",
+    "source": "verbs"
+  },
+  {
+    "mot": "Ʒíibit",
+    "cat": "vi.",
+    "fr": "Être sale",
+    "ar": "يكون قذراً",
+    "en": "To be dirty",
+    "source": "verbs"
+  },
+  {
+    "mot": "a",
+    "cat": "pron.",
+    "fr": "Il/elle (sujet clitique)",
+    "ar": "هو/هي (ضمير فاعل متصل)",
+    "en": "He/she (subject clitic)",
+    "source": "pronouns"
+  },
+  {
+    "mot": "a-bobaz",
+    "cat": "n.",
+    "fr": "Cousin croisé (mâle)",
+    "ar": "ابن عم/خال",
+    "en": "Cross cousin (male)",
+    "source": "famille"
+  },
+  {
+    "mot": "a-lugus",
+    "cat": "n.",
+    "fr": "Beau-frère / belle-soeur",
+    "ar": "أخ/أخت الزوج",
+    "en": "Brother/sister in law",
+    "source": "famille"
+  },
+  {
+    "mot": "a-se",
+    "cat": "postp.",
+    "fr": "Pour, à (datif)",
+    "ar": "لـ، إلى",
+    "en": "For, to (dative)",
+    "source": "adpositions"
+  },
+  {
+    "mot": "a-watay",
+    "cat": "n.",
+    "fr": "Année",
+    "ar": "سنة",
+    "en": "Year",
+    "source": "swadesh"
+  },
+  {
+    "mot": "ag",
+    "cat": "particule",
+    "fr": "Fils de (dans les noms propres)",
+    "ar": "ابن (في الأسماء)",
+    "en": "Son of (in proper names)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "agar",
+    "cat": "n.",
+    "fr": "Mauvais (dans composés)",
+    "ar": "سيء (في المركبات)",
+    "en": "Bad (in compounds)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ak",
+    "cat": "particule",
+    "fr": "Est-ce que ? (question)",
+    "ar": "هل؟ (سؤال)",
+    "en": "Question particle",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "akkoz-a-temerwin",
+    "cat": "num.",
+    "fr": "Quarante",
+    "ar": "أربعون",
+    "en": "Forty",
+    "source": "numerals"
+  },
+  {
+    "mot": "alfagi",
+    "cat": "n.",
+    "fr": "Maître coranique",
+    "ar": "معلم قرآن",
+    "en": "Quran teacher",
+    "source": "grammaire"
+  },
+  {
+    "mot": "alhakumat",
+    "cat": "n.",
+    "fr": "Gouvernement",
+    "ar": "حكومة",
+    "en": "Government",
+    "source": "emission"
+  },
+  {
+    "mot": "almital",
+    "cat": "n.",
+    "fr": "Exemple, parabole",
+    "ar": "مثال",
+    "en": "Example, parable",
+    "source": "emission"
+  },
+  {
+    "mot": "an",
+    "cat": "particule",
+    "fr": "Toi (sujet clitique)",
+    "ar": "أنت (ضمير فاعل متصل)",
+    "en": "You (subject clitic)",
+    "source": "pronouns"
+  },
+  {
+    "mot": "anafad",
+    "cat": "n.",
+    "fr": "Infection",
+    "ar": "عدوى",
+    "en": "Infection",
+    "source": "grammaire"
+  },
+  {
+    "mot": "anayat",
+    "cat": "n.",
+    "fr": "Attention",
+    "ar": "انتباه",
+    "en": "Attention",
+    "source": "emission"
+  },
+  {
+    "mot": "anda",
+    "cat": "conj.",
+    "fr": "Et (entre noms)",
+    "ar": "و (بين الأسماء)",
+    "en": "And (between noun phrases)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "andak",
+    "cat": "pron.",
+    "fr": "Vous (sujet clitique)",
+    "ar": "أنتم (ضمير فاعل متصل)",
+    "en": "You (subject clitic)",
+    "source": "pronouns"
+  },
+  {
+    "mot": "aniyat",
+    "cat": "n.",
+    "fr": "Attention, veille",
+    "ar": "انتباه",
+    "en": "Attention, watchfulness",
+    "source": "emission"
+  },
+  {
+    "mot": "anìyat",
+    "cat": "n.",
+    "fr": "Attention, veille",
+    "ar": "انتباه",
+    "en": "Attention, watchfulness",
+    "source": "vocabulaire_saillant"
+  },
+  {
+    "mot": "ar",
+    "cat": "pron.",
+    "fr": "Nous (sujet clitique)",
+    "ar": "نحن (ضمير فاعل متصل)",
+    "en": "We (subject clitic)",
+    "source": "pronouns"
+  },
+  {
+    "mot": "aradan",
+    "cat": "n.",
+    "fr": "Troupeau",
+    "ar": "قطيع",
+    "en": "Herd",
+    "source": "verbs"
+  },
+  {
+    "mot": "asenda",
+    "cat": "dem.",
+    "fr": "Celui-là, là-bas",
+    "ar": "ذلك، هناك",
+    "en": "That (one); there",
+    "source": "demonstratives"
+  },
+  {
+    "mot": "aw- maamala",
+    "cat": "n.",
+    "fr": "Marchand",
+    "ar": "تاجر",
+    "en": "Merchant",
+    "source": "famille"
+  },
+  {
+    "mot": "ay",
+    "cat": "pron.",
+    "fr": "Je (sujet clitique)",
+    "ar": "أنا (ضمير فاعل متصل)",
+    "en": "I (subject clitic)",
+    "source": "pronouns"
+  },
+  {
+    "mot": "ayda",
+    "cat": "dem.",
+    "fr": "Ceci (près de l'interlocuteur)",
+    "ar": "هذا (قريب من المخاطب)",
+    "en": "This (close to addressee)",
+    "source": "demonstratives"
+  },
+  {
+    "mot": "ayya",
+    "cat": "interj.",
+    "fr": "Hé ! (exclamation)",
+    "ar": "يا! (تعجب)",
+    "en": "Hey! (exclamation)",
+    "source": "conte"
+  },
+  {
+    "mot": "b-",
+    "cat": "préfixe",
+    "fr": "Imperfectif",
+    "ar": "مضارع",
+    "en": "Imperfective",
+    "source": "grammaire"
+  },
+  {
+    "mot": "b",
+    "cat": "préfixe",
+    "fr": "Imperfectif",
+    "ar": "مضارع",
+    "en": "Imperfective",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ba",
+    "cat": "particule",
+    "fr": "Impératif (pluriel)",
+    "ar": "صيغة الأمر (جمع)",
+    "en": "Imperative (plural)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ba",
+    "cat": "particule",
+    "fr": "Impératif",
+    "ar": "صيغة الأمر",
+    "en": "Imperative",
+    "source": "grammaire"
+  },
+  {
+    "mot": "baaʃi",
+    "cat": "n.",
+    "fr": "Outre à eau",
+    "ar": "قربة ماء",
+    "en": "Water bag",
+    "source": "verbs"
+  },
+  {
+    "mot": "baŋgú",
+    "cat": "n.",
+    "fr": "Début, tête, front",
+    "ar": "بداية، رأس، جبهة",
+    "en": "Beginning; head; front",
+    "source": "swadesh"
+  },
+  {
+    "mot": "be",
+    "cat": "postp.",
+    "fr": "Sur, au-dessus de",
+    "ar": "على، فوق",
+    "en": "On, above",
+    "source": "adpositions"
+  },
+  {
+    "mot": "bibi",
+    "cat": "adj.",
+    "fr": "Noir",
+    "ar": "أسود",
+    "en": "Black",
+    "source": "couleurs"
+  },
+  {
+    "mot": "bidaw",
+    "cat": "n.",
+    "fr": "Bidon, canette",
+    "ar": "علبة، صفيحة",
+    "en": "Canister, can",
+    "source": "verbs"
+  },
+  {
+    "mot": "bora",
+    "cat": "n.",
+    "fr": "Personne",
+    "ar": "شخص",
+    "en": "Person",
+    "source": "grammaire"
+  },
+  {
+    "mot": "bor(a) a-ʃʃí",
+    "cat": "phrase",
+    "fr": "Il n'y a personne",
+    "ar": "لا أحد",
+    "en": "There is nobody",
+    "source": "negation"
+  },
+  {
+    "mot": "c-",
+    "cat": "préfixe",
+    "fr": "Causatif (allomorphe)",
+    "ar": "سببي (صيغة بديلة)",
+    "en": "Causative (allomorph)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "c(i) agúd",
+    "cat": "phrase",
+    "fr": "Quand ?",
+    "ar": "متى؟",
+    "en": "When?",
+    "source": "swadesh"
+  },
+  {
+    "mot": "ceena",
+    "cat": "n.",
+    "fr": "Petit(e), cadet(te)",
+    "ar": "أخ/أخت أصغر",
+    "en": "Younger sibling",
+    "source": "famille"
+  },
+  {
+    "mot": "ci",
+    "cat": "pron.",
+    "fr": "Qui ? / Quoi ?",
+    "ar": "من؟ / ماذا؟",
+    "en": "Who?/what?",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "ci ná a",
+    "cat": "phrase",
+    "fr": "Qu'est-ce que c'est ?",
+    "ar": "ما هذا؟",
+    "en": "What is it?",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ci ná aɣo",
+    "cat": "phrase",
+    "fr": "Qui (humain) ?",
+    "ar": "من (بشر)؟",
+    "en": "Who (human)?",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ci ná hó",
+    "cat": "phrase",
+    "fr": "Quoi (non-humain) ?",
+    "ar": "ماذا (غير بشر)؟",
+    "en": "What (non-human)?",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ci ná hó be",
+    "cat": "phrase",
+    "fr": "Pourquoi ?",
+    "ar": "لماذا؟",
+    "en": "Why?",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "ciday",
+    "cat": "adj.",
+    "fr": "Rouge",
+    "ar": "أحمر",
+    "en": "Red",
+    "source": "couleurs"
+  },
+  {
+    "mot": "d(a) á-ṣṣak",
+    "cat": "idiom",
+    "fr": "Chanter",
+    "ar": "يغني",
+    "en": "Sing, to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "da",
+    "cat": "particule",
+    "fr": "Vraiment, exactement (intensification)",
+    "ar": "حقاً، بالضبط (تأكيد)",
+    "en": "Really, exactly (intensification)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "da",
+    "cat": "particule",
+    "fr": "Exactement, vraiment",
+    "ar": "بالضبط، حقاً",
+    "en": "Exactly, really",
+    "source": "grammaire"
+  },
+  {
+    "mot": "dalat-an",
+    "cat": "adj.",
+    "fr": "Bleu, vert",
+    "ar": "أزرق، أخضر",
+    "en": "Blue, green",
+    "source": "couleurs"
+  },
+  {
+    "mot": "daw",
+    "cat": "postp.",
+    "fr": "Chez (quelqu'un)",
+    "ar": "عند (شخص)",
+    "en": "At (somebody's place)",
+    "source": "adpositions"
+  },
+  {
+    "mot": "day",
+    "cat": "particule",
+    "fr": "Aussi, en plus",
+    "ar": "أيضاً، بالإضافة",
+    "en": "Also, in addition",
+    "source": "grammaire"
+  },
+  {
+    "mot": "desentralisasiö",
+    "cat": "n.",
+    "fr": "Décentralisation",
+    "ar": "لامركزية",
+    "en": "Decentralization",
+    "source": "emission"
+  },
+  {
+    "mot": "eelaw",
+    "cat": "n.",
+    "fr": "Éléphant",
+    "ar": "فيل",
+    "en": "Elephant",
+    "source": "conte"
+  },
+  {
+    "mot": "fammuf-a-temerwin",
+    "cat": "num.",
+    "fr": "Cinquante",
+    "ar": "خمسون",
+    "en": "Fifty",
+    "source": "numerals"
+  },
+  {
+    "mot": "fow",
+    "cat": "particule",
+    "fr": "Pas du tout",
+    "ar": "إطلاقاً",
+    "en": "Not at all",
+    "source": "negation"
+  },
+  {
+    "mot": "h(e) a-ʃʃí",
+    "cat": "phrase",
+    "fr": "Il n'y a rien",
+    "ar": "لا شيء",
+    "en": "There is nothing",
+    "source": "negation"
+  },
+  {
+    "mot": "har",
+    "cat": "conj.",
+    "fr": "Jusqu'à, excepté",
+    "ar": "حتى، باستثناء",
+    "en": "Until, except",
+    "source": "grammaire"
+  },
+  {
+    "mot": "harkid",
+    "cat": "particule",
+    "fr": "Aussi",
+    "ar": "أيضاً",
+    "en": "Also",
+    "source": "grammaire"
+  },
+  {
+    "mot": "hayni",
+    "cat": "n.",
+    "fr": "Millet",
+    "ar": "دخن",
+    "en": "Millet",
+    "source": "verbs"
+  },
+  {
+    "mot": "ho",
+    "cat": "dem.",
+    "fr": "Ceci (remplaçant une action)",
+    "ar": "هذا (يحل محل فعل)",
+    "en": "This (replacing an action)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "i-",
+    "cat": "préfixe",
+    "fr": "Pluriel (préfixe)",
+    "ar": "جمع (بادئة)",
+    "en": "Plural (prefix)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "i",
+    "cat": "pron.",
+    "fr": "Ils/elles (sujet clitique)",
+    "ar": "هم/هن (ضمير فاعل متصل)",
+    "en": "They (subject clitic)",
+    "source": "pronouns"
+  },
+  {
+    "mot": "i-",
+    "cat": "préfixe",
+    "fr": "Pluriel",
+    "ar": "جمع",
+    "en": "Plural",
+    "source": "grammaire"
+  },
+  {
+    "mot": "idda",
+    "cat": "conj.",
+    "fr": "Parce que",
+    "ar": "لأن",
+    "en": "Because",
+    "source": "grammaire"
+  },
+  {
+    "mot": "igan",
+    "cat": "particule",
+    "fr": "Est-ce que ? (question)",
+    "ar": "هل؟ (سؤال)",
+    "en": "Question particle",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "inzin",
+    "cat": "prep.",
+    "fr": "Comme",
+    "ar": "مثل",
+    "en": "Like",
+    "source": "adpositions"
+  },
+  {
+    "mot": "je ~ jen",
+    "cat": "particule",
+    "fr": "Seulement",
+    "ar": "فقط",
+    "en": "Only",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ka",
+    "cat": "postp.",
+    "fr": "Dans, sur, à, de, depuis",
+    "ar": "في، على، إلى، من",
+    "en": "In, on, at, from",
+    "source": "adpositions"
+  },
+  {
+    "mot": "kamba",
+    "cat": "postp.",
+    "fr": "Vers",
+    "ar": "نحو",
+    "en": "Towards",
+    "source": "adpositions"
+  },
+  {
+    "mot": "kar",
+    "cat": "conj.",
+    "fr": "Quand, si",
+    "ar": "عندما، إذا",
+    "en": "When, if",
+    "source": "grammaire"
+  },
+  {
+    "mot": "kay",
+    "cat": "vi.",
+    "fr": "S'arrêter, être debout",
+    "ar": "يتوقف، يقف",
+    "en": "To stop, stand",
+    "source": "verbes_action"
+  },
+  {
+    "mot": "kay",
+    "cat": "n.",
+    "fr": "Arrêt, posture droite",
+    "ar": "توقف، استقامة",
+    "en": "Stop, upright posture",
+    "source": "grammaire"
+  },
+  {
+    "mot": "kay he be",
+    "cat": "idiom",
+    "fr": "Retenir quelque chose",
+    "ar": "يحبس شيئاً",
+    "en": "Withhold something",
+    "source": "grammaire"
+  },
+  {
+    "mot": "kay he ka",
+    "cat": "idiom",
+    "fr": "Piétiner",
+    "ar": "يدوس",
+    "en": "Trample",
+    "source": "grammaire"
+  },
+  {
+    "mot": "komin-tan",
+    "cat": "n.",
+    "fr": "Communes",
+    "ar": "بلديات",
+    "en": "Communes",
+    "source": "emission"
+  },
+  {
+    "mot": "kud",
+    "cat": "conj.",
+    "fr": "Si (après verbes de cognition)",
+    "ar": "إذا (بعد أفعال الإدراك)",
+    "en": "If (after verbs of cognition)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "kud day",
+    "cat": "conj.",
+    "fr": "Même si",
+    "ar": "حتى لو",
+    "en": "Even if",
+    "source": "grammaire"
+  },
+  {
+    "mot": "kud day",
+    "cat": "conj.",
+    "fr": "Même si",
+    "ar": "حتى لو",
+    "en": "Even if",
+    "source": "grammaire"
+  },
+  {
+    "mot": "kulli",
+    "cat": "quantifier",
+    "fr": "Chaque",
+    "ar": "كل",
+    "en": "Each",
+    "source": "grammaire"
+  },
+  {
+    "mot": "kálá",
+    "cat": "particule",
+    "fr": "Jamais (avec négation)",
+    "ar": "أبداً (مع النفي)",
+    "en": "Never (with negation)",
+    "source": "negation"
+  },
+  {
+    "mot": "kálá ... no",
+    "cat": "phrase",
+    "fr": "Ne ... jamais",
+    "ar": "لم ... أبداً",
+    "en": "Never",
+    "source": "grammaire"
+  },
+  {
+    "mot": "káamil",
+    "cat": "quantifier",
+    "fr": "Tout",
+    "ar": "كل",
+    "en": "All",
+    "source": "grammaire"
+  },
+  {
+    "mot": "m-",
+    "cat": "préfixe",
+    "fr": "Subjonctif",
+    "ar": "صيغة الشرط",
+    "en": "Subjunctive",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ma-",
+    "cat": "préfixe",
+    "fr": "Nominalisateur d'agent",
+    "ar": "صيغة اسم الفاعل",
+    "en": "Agent nominalizer",
+    "source": "grammaire"
+  },
+  {
+    "mot": "maana",
+    "cat": "adv.",
+    "fr": "Où ? (proximité)",
+    "ar": "أين؟ (قرب)",
+    "en": "Where? (close)",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "maana",
+    "cat": "adv.",
+    "fr": "Où ? (proche)",
+    "ar": "أين؟ (قريب)",
+    "en": "Where? (close)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "maday",
+    "cat": "conj.",
+    "fr": "Ou",
+    "ar": "أو",
+    "en": "Or",
+    "source": "grammaire"
+  },
+  {
+    "mot": "mammaní kár borá",
+    "cat": "idiom",
+    "fr": "Sentir (une odeur)",
+    "ar": "يشم (رائحة)",
+    "en": "Smell (odor), to",
+    "source": "swadesh"
+  },
+  {
+    "mot": "man",
+    "cat": "pron.",
+    "fr": "Lequel",
+    "ar": "أي",
+    "en": "Which",
+    "source": "grammaire"
+  },
+  {
+    "mot": "man ícet",
+    "cat": "phrase",
+    "fr": "Combien ?",
+    "ar": "كم؟",
+    "en": "How much/many?",
+    "source": "grammaire"
+  },
+  {
+    "mot": "man n(e)",
+    "cat": "phrase",
+    "fr": "Où ? (action)",
+    "ar": "أين؟ (فعل)",
+    "en": "Where? (action)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "man ná",
+    "cat": "phrase",
+    "fr": "Où ?",
+    "ar": "أين؟",
+    "en": "Where?",
+    "source": "grammaire"
+  },
+  {
+    "mot": "man émmǝk aɣó (ǝ)nda",
+    "cat": "phrase",
+    "fr": "Comment ?",
+    "ar": "كيف؟",
+    "en": "How?",
+    "source": "interrogatives"
+  },
+  {
+    "mot": "may kay",
+    "cat": "idiom",
+    "fr": "Être grand (taille)",
+    "ar": "يكون طويل القامة",
+    "en": "To be tall",
+    "source": "grammaire"
+  },
+  {
+    "mot": "mey",
+    "cat": "conj.",
+    "fr": "Ou",
+    "ar": "أو",
+    "en": "Or",
+    "source": "grammaire"
+  },
+  {
+    "mot": "na",
+    "cat": "dem.",
+    "fr": "Ce (en face, opposé)",
+    "ar": "هذا/ذلك (مقابل)",
+    "en": "This/that (opposite)",
+    "source": "demonstratives"
+  },
+  {
+    "mot": "na",
+    "cat": "copule",
+    "fr": "Être (interrogatif)",
+    "ar": "يكون (استفهامي)",
+    "en": "Be (interrogative)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "na",
+    "cat": "particule",
+    "fr": "Voilà (présentatif)",
+    "ar": "ها هو (تعريفي)",
+    "en": "Here is (presentative)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "nani",
+    "cat": "particule",
+    "fr": "Voici",
+    "ar": "ها هو",
+    "en": "Here is",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ne",
+    "cat": "particule",
+    "fr": "Ici (disponibilité)",
+    "ar": "هنا (توفر)",
+    "en": "Here (availability)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "nina",
+    "cat": "particule",
+    "fr": "Voici (pluriel)",
+    "ar": "ها هم (جمع)",
+    "en": "Here are (plural)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "nise",
+    "cat": "particule",
+    "fr": "Voilà (pluriel)",
+    "ar": "ها هم هناك (جمع)",
+    "en": "There are (plural)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "no",
+    "cat": "particule",
+    "fr": "Là-bas (démonstratif)",
+    "ar": "هناك (اسم إشارة)",
+    "en": "There (demonstrative)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "nóo-se",
+    "cat": "particule",
+    "fr": "Voilà (singulier)",
+    "ar": "ها هو هناك (مفرد)",
+    "en": "There is (singular)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "o",
+    "cat": "dem.",
+    "fr": "Ce (référence large)",
+    "ar": "هذا/ذلك (مرجع واسع)",
+    "en": "This/that (broad reference)",
+    "source": "demonstratives"
+  },
+  {
+    "mot": "ooda",
+    "cat": "dem.",
+    "fr": "Ceci (près du locuteur)",
+    "ar": "هذا (قريب من المتكلم)",
+    "en": "This (close to speaker)",
+    "source": "demonstratives"
+  },
+  {
+    "mot": "s-",
+    "cat": "préfixe",
+    "fr": "Causatif",
+    "ar": "سببي",
+    "en": "Causative",
+    "source": "grammaire"
+  },
+  {
+    "mot": "sa",
+    "cat": "particule",
+    "fr": "Que (complémenteur)",
+    "ar": "أن (حرف مصدري)",
+    "en": "That (complementizer)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "sa",
+    "cat": "conj.",
+    "fr": "Quand",
+    "ar": "عندما",
+    "en": "When",
+    "source": "grammaire"
+  },
+  {
+    "mot": "sa",
+    "cat": "particule",
+    "fr": "Que (complémenteur)",
+    "ar": "أن",
+    "en": "That (complementizer)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "se",
+    "cat": "postp.",
+    "fr": "Pour, à (datif)",
+    "ar": "لـ، إلى",
+    "en": "For, to (dative)",
+    "source": "adpositions"
+  },
+  {
+    "mot": "sekter-tan",
+    "cat": "n.",
+    "fr": "Secteurs",
+    "ar": "قطاعات",
+    "en": "Sectors",
+    "source": "emission"
+  },
+  {
+    "mot": "senda",
+    "cat": "dem.",
+    "fr": "Celui-là (distant)",
+    "ar": "ذلك (بعيد)",
+    "en": "That (far)",
+    "source": "demonstratives"
+  },
+  {
+    "mot": "sinda",
+    "cat": "dem.",
+    "fr": "Ceux-là (distant)",
+    "ar": "أولئك (بعيد)",
+    "en": "Those (far)",
+    "source": "demonstratives"
+  },
+  {
+    "mot": "t-",
+    "cat": "préfixe",
+    "fr": "Passif",
+    "ar": "مجهول",
+    "en": "Passive",
+    "source": "grammaire"
+  },
+  {
+    "mot": "t(a)-",
+    "cat": "préfixe",
+    "fr": "Féminin / diminutif",
+    "ar": "مؤنث / تصغير",
+    "en": "Feminine / diminutive",
+    "source": "grammaire"
+  },
+  {
+    "mot": "t-a-bobas-t",
+    "cat": "n.",
+    "fr": "Cousine croisée (femelle)",
+    "ar": "بنت عم/خال",
+    "en": "Cross cousin (female)",
+    "source": "famille"
+  },
+  {
+    "mot": "t-izzar-t",
+    "cat": "n.",
+    "fr": "Avant",
+    "ar": "قبل",
+    "en": "Before",
+    "source": "grammaire"
+  },
+  {
+    "mot": "t-izzar-t",
+    "cat": "conj.",
+    "fr": "Avant que",
+    "ar": "قبل أن",
+    "en": "Before",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ta",
+    "cat": "particule",
+    "fr": "Futur",
+    "ar": "سوف (مستقبل)",
+    "en": "Future",
+    "source": "grammaire"
+  },
+  {
+    "mot": "taw",
+    "cat": "vi.",
+    "fr": "Arriver",
+    "ar": "يصل",
+    "en": "To arrive",
+    "source": "verbs"
+  },
+  {
+    "mot": "taw",
+    "cat": "vt.",
+    "fr": "Atteindre",
+    "ar": "يصل إلى",
+    "en": "To reach",
+    "source": "verbs"
+  },
+  {
+    "mot": "tay",
+    "cat": "adj.",
+    "fr": "Vert",
+    "ar": "أخضر",
+    "en": "Green",
+    "source": "couleurs"
+  },
+  {
+    "mot": "ten",
+    "cat": "vi.",
+    "fr": "Arriver",
+    "ar": "يصل",
+    "en": "To arrive",
+    "source": "verbs"
+  },
+  {
+    "mot": "tugud-en",
+    "cat": "npl.",
+    "fr": "Arbres",
+    "ar": "أشجار",
+    "en": "Trees",
+    "source": "emission"
+  },
+  {
+    "mot": "tuw-",
+    "cat": "préfixe",
+    "fr": "Passif",
+    "ar": "مجهول",
+    "en": "Passive",
+    "source": "grammaire"
+  },
+  {
+    "mot": "tuwa-",
+    "cat": "préfixe",
+    "fr": "Passif (causatif)",
+    "ar": "مجهول (سببي)",
+    "en": "Passive (causative)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "wa",
+    "cat": "particule",
+    "fr": "Impératif (pluriel)",
+    "ar": "صيغة الأمر (جمع)",
+    "en": "Imperative (plural)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "wa",
+    "cat": "particule",
+    "fr": "Impératif",
+    "ar": "صيغة الأمر",
+    "en": "Imperative",
+    "source": "grammaire"
+  },
+  {
+    "mot": "wala",
+    "cat": "conj.",
+    "fr": "Ou",
+    "ar": "أو",
+    "en": "Or",
+    "source": "grammaire"
+  },
+  {
+    "mot": "wala",
+    "cat": "prep.",
+    "fr": "Sans",
+    "ar": "بدون",
+    "en": "Without",
+    "source": "adpositions"
+  },
+  {
+    "mot": "wani",
+    "cat": "postp.",
+    "fr": "De (possession)",
+    "ar": "لـ (ملكية)",
+    "en": "Of (possession)",
+    "source": "adpositions"
+  },
+  {
+    "mot": "wertilla",
+    "cat": "particule",
+    "fr": "Il n'y a pas",
+    "ar": "ليس هناك",
+    "en": "There is not",
+    "source": "grammaire"
+  },
+  {
+    "mot": "y-",
+    "cat": "préfixe",
+    "fr": "Préfixe verbal (tamasheq)",
+    "ar": "بادئة فعلية (تماشقية)",
+    "en": "Verbal prefix (Tamasheq)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "ya",
+    "cat": "interj.",
+    "fr": "Ah ! (exclamation)",
+    "ar": "آه! (تعجب)",
+    "en": "Ah! (exclamation)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "yaw",
+    "cat": "n.",
+    "fr": "Chamelle",
+    "ar": "ناقة",
+    "en": "Female camel",
+    "source": "animaux"
+  },
+  {
+    "mot": "yéd",
+    "cat": "vi.",
+    "fr": "Revenir",
+    "ar": "يعود",
+    "en": "To return",
+    "source": "verbes_action"
+  },
+  {
+    "mot": "yél",
+    "cat": "n.",
+    "fr": "Herbe (verte)",
+    "ar": "عشب (أخضر)",
+    "en": "Grass (green)",
+    "source": "swadesh"
+  },
+  {
+    "mot": "za",
+    "cat": "particule",
+    "fr": "Donc (conséquence logique)",
+    "ar": "إذاً (نتيجة منطقية)",
+    "en": "So (logical consequence)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "zama",
+    "cat": "conj.",
+    "fr": "Après que",
+    "ar": "بعد أن",
+    "en": "After",
+    "source": "grammaire"
+  },
+  {
+    "mot": "zaɣri",
+    "cat": "n.",
+    "fr": "Jour",
+    "ar": "يوم",
+    "en": "Day",
+    "source": "grammaire"
+  },
+  {
+    "mot": "zeddi",
+    "cat": "adv.",
+    "fr": "Encore, pas encore",
+    "ar": "بعد، لم ... بعد",
+    "en": "Yet, not yet",
+    "source": "negation"
+  },
+  {
+    "mot": "Ahún",
+    "cat": "impératif",
+    "fr": "prends ! (impératif)",
+    "ar": "خذ! (صيغة أمر)",
+    "en": "take! (imperative)",
+    "source": "grammaire"
+  },
+  {
+    "mot": "Baŋgáw",
+    "cat": "n.",
+    "fr": "hippopotame",
+    "ar": "فرس النهر",
+    "en": "hippopotamus",
+    "source": "animaux"
+  },
+  {
+    "mot": "Barmáy",
+    "cat": "n.",
+    "fr": "monnaie, petite change",
+    "ar": "عملة صغيرة، صرافة",
+    "en": "change (money)",
+    "source": "vocabulaire_saillant"
+  },
+  {
+    "mot": "Bíŋgi",
+    "cat": "n.",
+    "fr": "âne mâle",
+    "ar": "حمار ذكر",
+    "en": "male donkey",
+    "source": "animaux"
+  },
+  {
+    "mot": "Bitá",
+    "cat": "n.",
+    "fr": "bouillie de mil",
+    "ar": "عصيدة الدخن",
+    "en": "millet porridge",
+    "source": "nature"
+  },
+  {
+    "mot": "Daamá",
+    "cat": "n.",
+    "fr": "bien-être, amélioration",
+    "ar": "رفاهية، تحسن",
+    "en": "well-being, improvement",
+    "source": "emission"
+  },
+  {
+    "mot": "Daanay",
+    "cat": "n.",
+    "fr": "graines de cram-cram",
+    "ar": "بذور نبات الكرام كرام",
+    "en": "seeds of cram-cram (burrgrass)",
+    "source": "nature"
+  },
+  {
+    "mot": "Danfú",
+    "cat": "n.",
+    "fr": "cuit-vapeur (couscoussier)",
+    "ar": "قدر البخار (كسكس)",
+    "en": "steamer pot (for couscous)",
+    "source": "vocabulaire_saillant"
+  },
+  {
+    "mot": "Dár",
+    "cat": "n.",
+    "fr": "natte, tapis de sol",
+    "ar": "حصيرة، بساط",
+    "en": "mat (floor covering)",
+    "source": "nature"
+  },
+  {
+    "mot": "Dáy-day",
+    "cat": "n.",
+    "fr": "provisions quotidiennes (épices, viande)",
+    "ar": "مؤن يومية (توابل، لحم)",
+    "en": "daily groceries (spices, meat)",
+    "source": "vocabulaire_saillant"
+  },
+  {
+    "mot": "Dílwil",
+    "cat": "n.",
+    "fr": "huile végétale",
+    "ar": "زيت نباتي",
+    "en": "vegetable oil",
+    "source": "nature"
+  },
+  {
+    "mot": "Ǹdororó",
+    "cat": "n.",
+    "fr": "gouttière (toit)",
+    "ar": "مزراب (سقف)",
+    "en": "roof gutter",
+    "source": "nature"
+  },
+  {
+    "mot": "Fendí",
+    "cat": "n.",
+    "fr": "van (à grains)",
+    "ar": "منخل (للحبوب)",
+    "en": "winnowing fan",
+    "source": "nature"
+  },
+  {
+    "mot": "Gismá",
+    "cat": "n.",
+    "fr": "oseille de Guinée (pour sauce)",
+    "ar": "حميض غينيا (لصلصة)",
+    "en": "roselle (for sauce)",
+    "source": "nature"
+  },
+  {
+    "mot": "Góora",
+    "cat": "n.",
+    "fr": "noix de cola",
+    "ar": "جوز الكولا",
+    "en": "cola nut",
+    "source": "nature"
+  },
+  {
+    "mot": "Jíifa",
+    "cat": "n.",
+    "fr": "charogne",
+    "ar": "جيفة",
+    "en": "carcass",
+    "source": "animaux"
+  },
+  {
+    "mot": "Karjí",
+    "cat": "n.",
+    "fr": "épine",
+    "ar": "شوكة",
+    "en": "thorn",
+    "source": "nature"
+  },
+  {
+    "mot": "Kussú",
+    "cat": "n.",
+    "fr": "jarre, pot",
+    "ar": "جرة، قدر",
+    "en": "jar, pot",
+    "source": "vocabulaire_saillant"
+  },
+  {
+    "mot": "Laŋgáy",
+    "cat": "n.",
+    "fr": "sel de natron (en natte)",
+    "ar": "ملح النطرون (في حصيرة)",
+    "en": "natron salt (in mat)",
+    "source": "nature"
+  },
+  {
+    "mot": "Maatíga",
+    "cat": "n.",
+    "fr": "arachide",
+    "ar": "فول سوداني",
+    "en": "peanut",
+    "source": "nature"
+  }
+]
