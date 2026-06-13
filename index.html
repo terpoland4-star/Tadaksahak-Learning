@@ -9,55 +9,156 @@
   <link rel="stylesheet" href="css/themes.css">
   <link rel="manifest" href="manifest.webmanifest">
   <link rel="icon" href="assets/images/idaksahak_round.png">
+  <!-- Preload des polices si nécessaire -->
 </head>
 <body class="dark">
+  <!-- Lien d'évitement -->
   <a href="#main-content" class="skip-link">Aller au contenu principal</a>
+
+  <!-- Overlay de chargement -->
   <div id="loadingOverlay" class="loading-overlay" hidden>
     <div class="spinner"></div>
     <p data-i18n="loading">Chargement...</p>
   </div>
 
+  <!-- En-tête -->
   <header class="site-header">
-    <!-- En-tête avec logo, sélecteurs de thème/langue -->
     <div class="header-container">
-      <img src="assets/images/idaksahak_round.png" alt="Logo" class="logo-header" width="60" height="60">
+      <img src="assets/images/idaksahak_round.png" alt="Logo Tadaksahak Learning" class="logo-header" width="60" height="60">
       <div class="header-text">
         <h1>Tadaksahak Learning</h1>
         <p class="subtitle" data-i18n="subtitle">Langue, culture et mémoire vivante du peuple Idaksahak</p>
       </div>
     </div>
+
+    <!-- Sélecteurs de thème -->
     <div class="theme-selector">
-      <button data-theme="dark" class="theme-btn">🌙</button>
-      <button data-theme="light" class="theme-btn">📖</button>
-      <button data-theme="sepia" class="theme-btn">📜</button>
-      <select id="fontFamilySelect"><!-- ... --></select>
-      <select id="fontSizeSelect"><!-- ... --></select>
-      <label><input type="checkbox" id="highContrastCheck"> ♿ Contraste élevé</label>
+      <button data-theme="dark" class="theme-btn" title="Thème sombre">🌙</button>
+      <button data-theme="light" class="theme-btn" title="Thème clair">📖</button>
+      <button data-theme="sepia" class="theme-btn" title="Thème sépia">📜</button>
+      <select id="fontFamilySelect" aria-label="Police">
+        <option value="sans">Sans-serif</option>
+        <option value="serif">Serif</option>
+        <option value="mono">Monospace</option>
+      </select>
+      <select id="fontSizeSelect" aria-label="Taille du texte">
+        <option value="80">80%</option>
+        <option value="100" selected>100%</option>
+        <option value="120">120%</option>
+        <option value="140">140%</option>
+      </select>
+      <label class="contrast-label">
+        <input type="checkbox" id="highContrastCheck"> ♿ Contraste élevé
+      </label>
     </div>
+
+    <!-- Sélecteur de langue -->
     <div class="lang-selector">
-      <button data-lang="fr" class="lang-flag">🇫🇷</button>
+      <button data-lang="fr" class="lang-flag active">🇫🇷</button>
       <button data-lang="ar" class="lang-flag">🇸🇦</button>
       <button data-lang="en" class="lang-flag">🇬🇧</button>
     </div>
-    <nav class="main-nav">
+
+    <!-- Navigation principale -->
+    <nav class="main-nav" aria-label="Navigation principale">
       <ul>
         <li><a href="/accueil" data-link="/accueil" data-i18n="nav_home">🏠 Accueil</a></li>
         <li><a href="/dictionnaire" data-link="/dictionnaire" data-i18n="nav_dictionary">📖 Dictionnaire</a></li>
-        <!-- ... autres liens identiques avec data-link -->
+        <li><a href="/grammaire" data-link="/grammaire" data-i18n="nav_grammar">📚 Grammaire</a></li>
+        <li><a href="/contes" data-link="/contes" data-i18n="nav_contes">📖 Contes</a></li>
+        <li><a href="/emissions" data-link="/emissions" data-i18n="nav_emissions">🎙️ Émissions</a></li>
+        <li><a href="/chat" data-link="/chat" data-i18n="nav_chat">💬 Chat Bot</a></li>
+        <li><a href="/audio" data-link="/audio" data-i18n="nav_audio">🎧 Audio</a></li>
+        <li><a href="/photos" data-link="/photos" data-i18n="nav_photos">🖼️ Photos</a></li>
+        <li><a href="/videos" data-link="/videos" data-i18n="nav_videos">🎥 Vidéos</a></li>
+        <li><a href="/livres" data-link="/livres" data-i18n="nav_books">📚 Livres</a></li>
+        <li><a href="/rapports" data-link="/rapports" data-i18n="nav_reports">📄 Rapports</a></li>
+        <li><a href="/actualites" data-link="/actualites" data-i18n="nav_actualites">📰 Actualités</a></li>
+        <li><a href="/quiz" data-link="/quiz" data-i18n="nav_quiz">❓ Quiz</a></li>
+        <li><a href="/flashcards" data-link="/flashcards" data-i18n="nav_flashcards">🃏 Flashcards</a></li>
+        <li><a href="/themes" data-link="/themes" data-i18n="nav_themes">📚 Thèmes</a></li>
+        <li><a href="/timeline" data-link="/timeline" data-i18n="nav_timeline">📅 Ligne du temps</a></li>
+        <li><a href="/map" data-link="/map" data-i18n="nav_map">🗺️ Carte</a></li>
+        <li><a href="/search-books" data-link="/search-books" data-i18n="nav_search">🔍 Recherche livres</a></li>
+        <li><a href="/dashboard" data-link="/dashboard" data-i18n="nav_dashboard">📊 Tableau de bord</a></li>
+        <li><a href="/ressources" data-link="/ressources" data-i18n="nav_ressources">📚 Ressources</a></li>
       </ul>
     </nav>
   </header>
 
+  <!-- Conteneur principal géré par le routeur -->
   <main id="main-content" tabindex="-1"></main>
 
+  <!-- Pied de page -->
   <footer class="site-footer">
-    <!-- ... -->
+    <div class="footer-content">
+      <div class="footer-columns">
+        <div class="footer-column">
+          <h4>Tadaksahak Learning</h4>
+          <p>Plateforme dédiée à la langue et culture Idaksahak</p>
+        </div>
+        <div class="footer-column">
+          <h4 data-i18n="footer_quicklinks">Liens rapides</h4>
+          <ul>
+            <li><a href="/dictionnaire" data-link="/dictionnaire">📖 Dictionnaire</a></li>
+            <li><a href="/grammaire" data-link="/grammaire">📚 Grammaire</a></li>
+            <li><a href="/contes" data-link="/contes">📖 Contes</a></li>
+            <li><a href="/ressources" data-link="/ressources">📚 Ressources</a></li>
+          </ul>
+        </div>
+        <div class="footer-column">
+          <h4 data-i18n="footer_contact">Contact</h4>
+          <p><a href="mailto:hamadineagmoctar@gmail.com">hamadineagmoctar@gmail.com</a></p>
+        </div>
+        <div class="footer-column">
+          <h4 data-i18n="footer_follow">Suivez-nous</h4>
+          <div class="social-links">
+            <a href="#" class="social-link" data-social="facebook" aria-label="Facebook"></a>
+            <a href="#" class="social-link" data-social="twitter" aria-label="Twitter"></a>
+            <a href="#" class="social-link" data-social="youtube" aria-label="YouTube"></a>
+          </div>
+        </div>
+      </div>
+      <div id="historique" class="historique-section" aria-live="polite"></div>
+      <div class="footer-copyright">
+        <p>&copy; 2024-2026 Tadaksahak Learning - Hamadine Ag Moctar</p>
+        <p class="footer-version">Version 4.0.0</p>
+      </div>
+    </div>
   </footer>
 
+  <!-- Toast -->
   <div id="toast" class="toast" role="alert" hidden></div>
-  <!-- Bannière cookies -->
-  <div id="cookie-consent" style="display:none; /* ... */">...</div>
 
+  <!-- Bannière consentement cookies -->
+  <div id="cookie-consent" style="display:none; position:fixed; bottom:0; left:0; right:0; background:var(--bg-card); color:var(--text); padding:12px 20px; text-align:center; z-index:1000; border-top:1px solid var(--border); backdrop-filter:blur(8px);">
+    <span>🍪 Ce site utilise des cookies pour améliorer votre expérience. Vos données restent confidentielles.</span>
+    <button id="accept-cookies" style="margin-left:15px; padding:6px 16px; background:var(--gradient-primary); border:none; border-radius:20px; color:white; cursor:pointer; font-weight:600;">J'accepte</button>
+    <button id="reject-cookies" style="margin-left:8px; padding:6px 16px; background:transparent; border:1px solid var(--border); border-radius:20px; color:var(--text-muted); cursor:pointer;">Refuser</button>
+  </div>
+
+  <!-- Templates pour les composants réutilisables -->
+  <template id="word-card-template">
+    <div class="word-card">
+      <h3 class="mot"></h3>
+      <p class="definition"></p>
+      <div class="word-actions">
+        <button class="share-btn">📤 <span data-i18n="share">Partager</span></button>
+        <button class="fav-btn">⭐ <span class="fav-text"></span></button>
+      </div>
+    </div>
+  </template>
+
+  <template id="modal-template">
+    <div class="modal">
+      <div class="modal-content">
+        <span class="modal-close">&times;</span>
+        <div class="modal-body"></div>
+      </div>
+    </div>
+  </template>
+
+  <!-- Script principal (module) -->
   <script type="module" src="js/app.js"></script>
 </body>
 </html>
