@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Tadaksahak Learning – Redirection...</title>
+  <script>
+    // Stocke l'URL demandée et redirige vers index.html
+    sessionStorage.setItem('redirect', location.pathname + location.search + location.hash);
+    location.replace('/');
+  </script>
+</head>
+<body></body>
+</html>
