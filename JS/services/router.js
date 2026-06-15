@@ -1,4 +1,4 @@
-import { showLoader, hideLoader } from '../core/utils.js';
+import { showToast } from '../core/utils.js';
 import { eventBus } from '../core/event-bus.js';
 
 // Table des vues (lazy loading)
@@ -7,7 +7,7 @@ const routes = {
   '/dictionnaire': () => import('../views/dictionary.js'),
   '/grammaire': () => import('../views/grammar.js'),
   '/contes': () => import('../views/stories.js'),
-  '/emissions': () => import('../views/media.js'), // media gère aussi émissions
+  '/emissions': () => import('../views/media.js'),
   '/chat': () => import('../views/chat.js'),
   '/audio': () => import('../views/media.js'),
   '/photos': () => import('../views/media.js'),
@@ -55,15 +55,13 @@ export function navigate(url) {
 }
 
 async function renderRoute(route) {
-  showLoader();
   try {
     const view = await routes[route]();
     await view.render();
     eventBus.emit('route-changed', { route });
   } catch (err) {
     console.error('Erreur chargement vue:', err);
+    showToast('Erreur de chargement de la section', 'error');
     document.getElementById('main-content').innerHTML = '<p>Erreur de chargement.</p>';
-  } finally {
-    hideLoader();
   }
 }
