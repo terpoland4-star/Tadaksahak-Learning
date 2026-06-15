@@ -28,10 +28,23 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </head>
 <body class="dark">
+
+  <!-- ⚠️ Réparation du routage GitHub Pages : restaure l'URL après redirection 404 -->
+  <script>
+    (function() {
+      var redirect = sessionStorage.getItem('redirect');
+      if (redirect) {
+        sessionStorage.removeItem('redirect');
+        // Remplace l'URL sans recharger la page
+        history.replaceState(null, null, redirect);
+      }
+    })();
+  </script>
+
   <!-- Lien d'évitement -->
   <a href="#main-content" class="skip-link">Aller au contenu principal</a>
 
-    <!-- Bannière de développement -->
+  <!-- Bannière de développement -->
   <div id="devBanner" class="dev-banner" hidden>
     <div class="dev-banner-content">
       <span class="dev-badge">🚀 EN EXPANSION</span>
@@ -43,7 +56,9 @@
   <!-- En-tête -->
   <header class="site-header">
     <div class="header-container">
-      <img src="assets/images/idaksahak_round.png" alt="Logo Tadaksahak Learning - Symbole de la communauté Idaksahak" class="logo-header" width="60" height="60">
+      <img src="assets/images/idaksahak_round.png" alt="Logo Tadaksahak Learning - Symbole de la communauté Idaksahak" class="logo-header" width="60" height="60"
+           onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+      <span class="logo-fallback" style="display:none; width:60px; height:60px; align-items:center; justify-content:center; font-size:2rem; background:var(--gradient-primary); border-radius:50%; color:white;">📖</span>
       <div class="header-text">
         <h1>Tadaksahak Learning</h1>
         <p class="subtitle" data-i18n="subtitle">Langue, culture et mémoire vivante du peuple Idaksahak</p>
